@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## Working Papers
 
-**[Attribution Bias in Consumer Choice](/f/Attribution_Bias)** (May 2016)<br />
+**[Attribution Bias in Consumer Choice](/f/Attribution_Bias.pdf)** (May 2016)<br />
  Kareem Haggag, Devin Pope<br />
 
 >Abstract: We examine the role of defaults in high-frequency, small-scale choices using unique data on over 13 million NYC taxi rides. We exploit a shift in the set of default tip suggestions presented to customers prior to payment, as the base fare changes from below $15 to above $15. Using a regression discontinuity design, we show that default suggestions have a large impact on tip amounts. These results are supported by a secondary analysis that uses the quasi-random assignment of customers to different cars to examine default effects on all fares above $15. Finally, we highlight a potential cost of setting defaults too high, as a higher proportion of customers opt to leave no credit card tip when presented with the higher suggested amounts.
