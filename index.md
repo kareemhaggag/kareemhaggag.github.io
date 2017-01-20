@@ -11,7 +11,7 @@ Prior to joining the CMU faculty, I was a postdoctoral fellow with the [Financia
 
 ## Contact
 
-Office: Portal Hall, 208-H <br />
+Office: Porter Hall, 208-H <br />
 Email: [kareem.haggag@cmu.edu]
 
 
