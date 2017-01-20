@@ -11,7 +11,7 @@ permalink: /research/
 
 ## Publications
 
-**[Learning by Driving: Productivity Improvements by New York City Taxi Drivers](/f/LBD.pdf)** (January 2017)<br />
+**[Learning by Driving: Productivity Improvements by New York City Taxi Drivers](/f/Learning_by_Driving.pdf)** (January 2017)<br />
  Kareem Haggag, Brian McManus, Giovanni Paci<br />
  **American Economic Journal: Applied Economics**, 9(1), 70-95. 2017
 
