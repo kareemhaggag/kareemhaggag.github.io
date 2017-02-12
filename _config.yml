@@ -1,6 +1,6 @@
 title: Kareem Haggag
 description: Assistant Professor in the Social and Decision Sciences department at Carnegie Mellon University
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+sourcecode: "https://github.com/kareemhaggag/kareemhaggag.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
@@ -29,7 +29,7 @@ analytics:
         sc_invisible: 1
         sc_text     : 2
     google:
-        tracking_id: ''
+        tracking_id: 'UA-30569764-1'
     getclicky:
       site_id:
     mixpanel:
