@@ -4,9 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-##
-
-##
+#
 
 ## 88-366: Behavioral Economics of Poverty and Development
  
