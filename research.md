@@ -42,8 +42,3 @@ Forthcoming at **Review of Economic Studies**
 [Yahoo! Finance](http://finance.yahoo.com/news/the-pain-of-paying--how-technology-tricks-you-into-tipping-more-203225829.html), [Pacific Standard Magazine](https://psmag.com/the-tipping-point-is-this-the-beginning-of-the-end-for-gratuities-94ca0ecb798b#.y6m8yhv27), [Guardian](https://www.theguardian.com/global/commentisfree/2015/mar/29/cass-sunstein-nudge-endless-options-confusing), [New York Times](https://www.nytimes.com/2015/03/26/style/10-20-apps-are-changing-how-we-tip.html?pagewanted=all), [Boston Globe](http://www.bostonglobe.com/lifestyle/style/2015/04/28/pardon-brother-can-you-spare-tip-for-cup-coffee/2JmMth6AkjttK5GnEbu1JL/story.html)<br />
  [[Online Appendix](/f/Default_Tips_onlineappendix.pdf)]
 
-## Selected Work in Progress
-
-**Inaccurate Statistical Discrimination**<br />
- J. Aislinn Bohren, Kareem Haggag, Alex Imas, Devin Pope<br />
-
