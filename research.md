@@ -4,6 +4,19 @@ permalink: /research/
 ---
 ## Working Papers
 
+**[Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](https://arxiv.org/pdf/1909.00024.pdf)** (September 2019)<br />
+M. Keith Chen, Kareem Haggag, Devin G. Pope, Ryne Rohla<br />
+
+>Abstract: Equal access to voting is a core feature of democratic government. Using data from
+millions of smartphone users, we quantify a racial disparity in voting wait times across
+a nationwide sample of polling places during the 2016 US presidential election. Relative to entirely-white neighborhoods, residents of entirely-black neighborhoods waited
+29% longer to vote and were 74% more likely to spend more than 30 minutes at their
+polling place. This disparity holds when comparing predominantly white and black
+polling places within the same states and counties, and survives numerous robustness
+and placebo tests. Our results document large racial differences in voting wait times
+and demonstrates that geospatial data can be an effective tool to both measure and
+monitor these disparities
+
 **[Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)** (June 2019)<br />
  Kareem Haggag, Richard W. Patterson, Nolan G. Pope, Aaron Feudo<br />
 
