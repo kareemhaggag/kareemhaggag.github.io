@@ -30,21 +30,21 @@ versus inaccurate statistical discrimination. We show that ignoring this distinc
 
 ## Publications
 
-**[Attribution Bias in Consumer Choice](/f/Attribution_Bias.pdf)** (May 2018)<br />
+**[Attribution Bias in Consumer Choice](/f/Attribution_Bias.pdf)**<br />
  Kareem Haggag, Devin G. Pope, Kinsey B. Bryant-Lees, Maarten W. Bos<br />
  **Review of Economic Studies**, 86(5), 2136-2183. 2019
 
 >Abstract: When judging the value of a good, people may be overly influenced by the state in which they previously consumed it. For example, someone who tries out a new restaurant while very hungry may subsequently rate it as high quality, even if the food is mediocre. We produce a simple framework for this form of attribution bias that embeds a standard model of decision making as a special case. We test for attribution bias across two consumer decisions. First, we conduct an experiment in which we randomly manipulate the thirst of participants prior to consuming a new drink. Second, using data from thousands of amusement park visitors, we explore how pleasant weather during their most recent trip affects their stated and actual likelihood of returning. In both of these domains, we find evidence that people misattribute the influence of a temporary state to a stable quality of the consumption good. We provide evidence against several alternative accounts for our findings and discuss the broader implications of attribution bias in economic decision making.
 
 
-**[Learning by Driving: Productivity Improvements by New York City Taxi Drivers](/f/Learning_by_Driving.pdf)** (January 2017)<br />
+**[Learning by Driving: Productivity Improvements by New York City Taxi Drivers](/f/Learning_by_Driving.pdf)**<br />
  Kareem Haggag, Brian McManus, Giovanni Paci<br />
  **American Economic Journal: Applied Economics**, 9(1), 70-95. 2017
 
 >Abstract: We study learning by doing (LBD) by New York City taxi drivers, who have substantial discretion over their driving strategies and receive compensation closely tied to their success in finding customers. In addition to documenting significant learning by these entrepreneurial agents, we exploit our data’s breadth to investigate the factors that contribute to driver improvement across a variety of situations. New drivers lag farther behind experienced drivers when in difficult situations. Drivers benefit from accumulating neighborhood-specific experience, which affects how they search for their next customers.
 
 
-**[Default Tips](/f/Default_Tips.pdf)** (April 2014)<br />
+**[Default Tips](/f/Default_Tips.pdf)**<br />
  Kareem Haggag, Giovanni Paci<br />
  **American Economic Journal: Applied Economics**, 6(3), 1-19. 2014
 
