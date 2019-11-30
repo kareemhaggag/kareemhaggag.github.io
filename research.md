@@ -4,10 +4,15 @@ permalink: /research/
 ---
 ## Working Papers
 
+**[Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)** (November 2019)<br />
+Eric Chyn, Kareem Haggag<br />
+
+>Abstract: How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.
+
 **[Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf)** (November 2019)<br />
 M. Keith Chen, Kareem Haggag, Devin G. Pope, Ryne Rohla<br />
 
->Abstract: Equal access to voting is a core feature of democratic government. Using data from millions of smartphone users, we quantify a racial disparity in voting wait times across a nationwide sample of polling places during the 2016 U.S. presidential election. Relative to entirely-white neighborhoods, residents of entirely-black neighborhoods waited 29\% longer to vote and were 74\% more likely to spend more than 30 minutes at their polling place. This disparity holds when comparing predominantly white and black polling places within the same states and counties, and survives numerous robustness and placebo tests. We shed light on the mechanism for these results and discuss how geospatial data can be an effective tool to both measure and monitor these disparities going forward.
+>Abstract: Equal access to voting is a core feature of democratic government. Using data from millions of smartphone users, we quantify a racial disparity in voting wait times across a nationwide sample of polling places during the 2016 U.S. presidential election. Relative to entirely-white neighborhoods, residents of entirely-black neighborhoods waited 29% longer to vote and were 74% more likely to spend more than 30 minutes at their polling place. This disparity holds when comparing predominantly white and black polling places within the same states and counties, and survives numerous robustness and placebo tests. We shed light on the mechanism for these results and discuss how geospatial data can be an effective tool to both measure and monitor these disparities going forward.
 
 **[Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)** (June 2019)<br />
  Kareem Haggag, Richard W. Patterson, Nolan G. Pope, Aaron Feudo<br />
