@@ -55,7 +55,7 @@ permalink: /research/
 
 * [Blue Porches: Finding the Limits of External Validity of the Endowment Effect](/f/Blue_Porches.pdf)<br />
   Gharad Bryan, Matthew Grant, Kareem Haggag, Dean Karlan, Meredith Startz, Chris Udry<br />
-  **Journal of Economic Behavior and Organization**, *Forthcoming*.
+  **Journal of Economic Behavior and Organization**, *Forthcoming*
 
 
    <details><summary> Abstract (+) </summary>
