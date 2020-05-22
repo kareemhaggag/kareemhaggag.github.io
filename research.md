@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## Working Papers
 
-**[Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)** (November 2019)<br />
+*[Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)** (November 2019)<br />
 Eric Chyn, Kareem Haggag
 <details><summary>Abstract (+)</summary>
 <blockquote>
