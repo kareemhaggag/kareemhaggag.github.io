@@ -4,8 +4,8 @@ permalink: /research/
 ---
 ## Working Papers
 
-*[Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)** (November 2019)<br />
-Eric Chyn, Kareem Haggag
+**[Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)** (November 2019)<br />
+Eric Chyn, Kareem Haggag<br />
 <details><summary>Abstract (+)</summary>
 <blockquote>
 <p align="justify"> How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation. <br /></p> </blockquote>  
@@ -15,11 +15,14 @@ Eric Chyn, Kareem Haggag
 
 **[Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf)** (November 2019)<br />
 M. Keith Chen, Kareem Haggag, Devin G. Pope, Ryne Rohla<br />
-
->Abstract: Equal access to voting is a core feature of democratic government. Using data from millions of smartphone users, we quantify a racial disparity in voting wait times across a nationwide sample of polling places during the 2016 U.S. presidential election. Relative to entirely-white neighborhoods, residents of entirely-black neighborhoods waited 29% longer to vote and were 74% more likely to spend more than 30 minutes at their polling place. This disparity holds when comparing predominantly white and black polling places within the same states and counties, and survives numerous robustness and placebo tests. We shed light on the mechanism for these results and discuss how geospatial data can be an effective tool to both measure and monitor these disparities going forward.
+<details><summary>Abstract (+)</summary>
+<blockquote>
+<p align="justify"> Equal access to voting is a core feature of democratic government. Using data from millions of smartphone users, we quantify a racial disparity in voting wait times across a nationwide sample of polling places during the 2016 U.S. presidential election. Relative to entirely-white neighborhoods, residents of entirely-black neighborhoods waited 29% longer to vote and were 74% more likely to spend more than 30 minutes at their polling place. This disparity holds when comparing predominantly white and black polling places within the same states and counties, and survives numerous robustness and placebo tests. We shed light on the mechanism for these results and discuss how geospatial data can be an effective tool to both measure and monitor these disparities going forward. <br /></p> </blockquote>  
+</details>
 
  Press: [Washington Post Op-Ed](https://www.washingtonpost.com/opinions/there-are-stark-racial-disparities-in-voting-times-heres-how-to-fix-them/2019/12/16/5fb4948a-1c5b-11ea-b4c1-fd0d91b60d9e_story.html), [Scientific American](https://www.scientificamerican.com/article/smartphone-data-show-voters-in-black-neighborhoods-wait-longer1/), [The Root](https://www.theroot.com/study-black-people-wait-longer-to-vote-1838853772), [The Hill](https://thehill.com/homenews/campaign/460965-study-voters-in-black-neighborhoods-face-longer-wait-times)
  
+<p>&nbsp;</p>
 
 **[Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)** (June 2019)<br />
  Kareem Haggag, Richard W. Patterson, Nolan G. Pope, Aaron Feudo<br />
