@@ -6,7 +6,7 @@ permalink: /
 <br />
 {% include image.html url="images/haggag.png" caption="" max_width="100px" align="right" %}
 
-I am an Assistant Professor in the [Social and Decision Sciences department at Carnegie Mellon University]. I study topics at the intersection of economics and psychology, and my [research] has explored attribution bias in consumer choice and education, the role of defaults in customer tipping behavior, learning by doing by taxi drivers, inaccurate statistical discrimination, racial disparities in voting wait times, and the effects of early-life experiences on voting. 
+I am an Assistant Professor in the [Social and Decision Sciences department at Carnegie Mellon University]. I study topics at the intersection of economics and psychology, and my [research] has explored attribution bias in consumer choice and education, the role of defaults in customer tipping behavior, learning by doing by taxi drivers, inaccurate statistical discrimination, racial disparities in voting wait times, and the effects of early-life experiences on voter participation and partisan identity. 
 
 Prior to joining the CMU faculty, I was a postdoctoral fellow with the [Financial Inclusion Program] at Yale University/Innovations for Poverty Action and received my PhD in economics from the [University of Chicago Booth School of Business] in 2016.
 
