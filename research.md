@@ -6,7 +6,8 @@ permalink: /research/
 
 
 * [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf) (November 2019)<br>
-  Eric Chyn, Kareem Haggag
+  (with Eric Chyn)<br />
+  NBER Working Paper #26515
 
 
    <details><summary> Abstract (+) </summary>
@@ -15,7 +16,8 @@ permalink: /research/
    </details> <br />
    
 * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) (November 2019)<br />
-  M. Keith Chen, Kareem Haggag, Devin G. Pope, Ryne Rohla
+  (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
+  NBER Working Paper #26487
 
 
    <details><summary> Abstract (+) </summary>
@@ -27,7 +29,7 @@ permalink: /research/
    **Press:** [Washington Post Op-Ed](https://www.washingtonpost.com/opinions/there-are-stark-racial-disparities-in-voting-times-heres-how-to-fix-them/2019/12/16/5fb4948a-1c5b-11ea-b4c1-fd0d91b60d9e_story.html), [Scientific American](https://www.scientificamerican.com/article/smartphone-data-show-voters-in-black-neighborhoods-wait-longer1/), [The Root](https://www.theroot.com/study-black-people-wait-longer-to-vote-1838853772), [The Hill](https://thehill.com/homenews/campaign/460965-study-voters-in-black-neighborhoods-face-longer-wait-times) <br />
 
 * [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf) (June 2019)<br />
-  Kareem Haggag, Richard W. Patterson, Nolan G. Pope, Aaron Feudo
+  (with Richard W. Patterson, Nolan G. Pope, & Aaron Feudo)
 
 
    <details><summary> Abstract (+) </summary>
@@ -39,7 +41,8 @@ permalink: /research/
    **Press:** [NPR Morning Edition (Hidden Brain)](https://www.npr.org/2020/01/02/792976377/hidden-brain-the-way-you-feel-may-shape-the-way-you-think-about-your-job) <br />
    
 * [Inaccurate Statistical Discrimination](/f/Inaccurate_Statistical_Discrimination.pdf) (May 2019)<br />
-  J. Aislinn Bohren, Kareem Haggag, Alex Imas, Devin G. Pope
+  (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
+  NBER Working Paper #25935
 
 
    <details><summary> Abstract (+) </summary>
@@ -54,7 +57,7 @@ permalink: /research/
 ## Publications
 
 * [Blue Porches: Finding the Limits of External Validity of the Endowment Effect](/f/Blue_Porches.pdf)<br />
-  Gharad Bryan, Matthew Grant, Kareem Haggag, Dean Karlan, Meredith Startz, Chris Udry<br />
+  (with Gharad Bryan, Matthew Grant, Dean Karlan, Meredith Startz, & Chris Udry)<br />
   **Journal of Economic Behavior and Organization**, *Forthcoming*
 
 
@@ -65,7 +68,7 @@ permalink: /research/
    </details> <br />
    
 * [Attribution Bias in Consumer Choice](/f/Attribution_Bias.pdf)<br />
-   Kareem Haggag, Devin G. Pope, Kinsey B. Bryant-Lees, Maarten W. Bos<br />
+   (with Devin G. Pope, Kinsey B. Bryant-Lees, & Maarten W. Bos) <br />
    **Review of Economic Studies**, 86(5), 2136-2183. 2019
 
 
@@ -76,7 +79,7 @@ permalink: /research/
    </details> <br />
    
 *  [Learning by Driving: Productivity Improvements by New York City Taxi Drivers](/f/Learning_by_Driving.pdf)<br />
-  Kareem Haggag, Brian McManus, Giovanni Paci<br />
+  (with Brian McManus & Giovanni Paci)<br />
   **American Economic Journal: Applied Economics**, 9(1), 70-95. 2017
 
 
@@ -87,8 +90,9 @@ permalink: /research/
    </details> <br />
    
 *  [Default Tips](/f/Default_Tips.pdf)<br />
-  Kareem Haggag, Giovanni Paci<br />
-  **American Economic Journal: Applied Economics**, 6(3), 1-19. 2014
+  (with Giovanni Paci)<br />
+  **American Economic Journal: Applied Economics**, 6(3), 1-19. 2014.
+  **(*Lead Article*)**
 
 
    <details><summary> Abstract (+) </summary>
