@@ -91,8 +91,8 @@ permalink: /research/
    
 *  [Default Tips](/f/Default_Tips.pdf)<br />
   (with Giovanni Paci)<br />
-  **American Economic Journal: Applied Economics**, 6(3), 1-19. 2014.
-  **(*Lead Article*)**
+  **American Economic Journal: Applied Economics**, 6(3), 1-19. 2014.<br />
+  [*Lead Article*]
 
 
    <details><summary> Abstract (+) </summary>
