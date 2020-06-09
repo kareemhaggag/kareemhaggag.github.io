@@ -69,7 +69,7 @@ permalink: /research/
 
 * [Blue Porches: Finding the Limits of External Validity of the Endowment Effect](/f/Blue_Porches.pdf)<br />
   (with Gharad Bryan, Matthew Grant, Dean Karlan, Meredith Startz, & Chris Udry)<br />
-  **Journal of Economic Behavior and Organization**, *Forthcoming*
+  **Journal of Economic Behavior and Organization**, 176, 269-271. 2020.
 
 
    <details><summary> Abstract (+) </summary>
@@ -80,7 +80,7 @@ permalink: /research/
    
 * [Attribution Bias in Consumer Choice](/f/Attribution_Bias.pdf)<br />
    (with Devin G. Pope, Kinsey B. Bryant-Lees, & Maarten W. Bos) <br />
-   **Review of Economic Studies**, 86(5), 2136-2183. 2019
+   **Review of Economic Studies**, 86(5), 2136-2183. 2019.
 
 
    <details><summary> Abstract (+) </summary>
@@ -91,7 +91,7 @@ permalink: /research/
    
 *  [Learning by Driving: Productivity Improvements by New York City Taxi Drivers](/f/Learning_by_Driving.pdf)<br />
   (with Brian McManus & Giovanni Paci)<br />
-  **American Economic Journal: Applied Economics**, 9(1), 70-95. 2017
+  **American Economic Journal: Applied Economics**, 9(1), 70-95. 2017.
 
 
    <details><summary> Abstract (+) </summary>
