@@ -65,8 +65,6 @@ permalink: /research/
    </details>
   
    **Press:** [Freakonomics](http://freakonomics.com/podcast/princess/)<br />
-   [[Online Appendix](/f/Inaccurate_Statistical_Discrimination_OnlineAppendix.pdf)]
-
      
 ## Publications
 
