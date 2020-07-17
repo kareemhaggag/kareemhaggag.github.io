@@ -28,7 +28,7 @@ permalink: /research/
    <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.</p> </blockquote>   
    </details> <br />
    
-* [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) (November 2019)<br />
+* [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) (July 2020)<br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
   NBER Working Paper #26487
 
@@ -53,7 +53,7 @@ permalink: /research/
   
    **Press:** [NPR Morning Edition (Hidden Brain)](https://www.npr.org/2020/01/02/792976377/hidden-brain-the-way-you-feel-may-shape-the-way-you-think-about-your-job), [Washington Post](https://www.washingtonpost.com/us-policy/2019/03/29/most-influential-least-informed-decision-college-students-make/) <br />
    
-* [Inaccurate Statistical Discrimination](/f/Inaccurate_Statistical_Discrimination.pdf) (May 2019)<br />
+* [Inaccurate Statistical Discrimination](/f/Inaccurate_Statistical_Discrimination.pdf) (July 2020)<br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
   NBER Working Paper #25935
 
