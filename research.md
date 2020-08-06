@@ -8,6 +8,7 @@ permalink: /research/
 * [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) (June 2020)<br>
   (with Stephen B. Billings & Eric Chyn)<br />
   NBER Working Paper #27302
+  *conditionally accepted at **American Economic Review: Insights***
 
 
    <details><summary> Abstract (+) </summary>
