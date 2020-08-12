@@ -19,19 +19,10 @@ permalink: /research/
    **Press:** [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans) <br />
 
 
-* [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf) (November 2019)<br>
-  (with Eric Chyn)<br />
-  NBER Working Paper #26515
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.</p> </blockquote>   
-   </details> <br />
    
 * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) (July 2020)<br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
-  NBER Working Paper #26487
+  NBER Working Paper #26487<br />
   Revise & Resubmit at **Review of Economics and Statistics**
 
 
@@ -42,6 +33,16 @@ permalink: /research/
    </details>
   
    **Press:** [Washington Post Op-Ed](https://www.washingtonpost.com/opinions/there-are-stark-racial-disparities-in-voting-times-heres-how-to-fix-them/2019/12/16/5fb4948a-1c5b-11ea-b4c1-fd0d91b60d9e_story.html), [Scientific American](https://www.scientificamerican.com/article/smartphone-data-show-voters-in-black-neighborhoods-wait-longer1/), [The Root](https://www.theroot.com/study-black-people-wait-longer-to-vote-1838853772), [The Hill](https://thehill.com/homenews/campaign/460965-study-voters-in-black-neighborhoods-face-longer-wait-times), [New York Times](https://www.nytimes.com/2020/06/12/business/for-racial-justice-employees-need-paid-hours-off-for-voting.html) <br />
+
+* [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf) (November 2019)<br>
+  (with Eric Chyn)<br />
+  NBER Working Paper #26515
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.</p> </blockquote>   
+   </details> <br />
 
 * [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf) (June 2019)<br />
   (with Richard W. Patterson, Nolan G. Pope, & Aaron Feudo)
