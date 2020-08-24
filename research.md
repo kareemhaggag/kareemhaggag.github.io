@@ -36,7 +36,8 @@ permalink: /research/
 
 * [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf) (November 2019)<br>
   (with Eric Chyn)<br />
-  NBER Working Paper #26515
+  NBER Working Paper #26515<br />
+  Revise & Resubmit at **Review of Economics and Statistics**
 
 
    <details><summary> Abstract (+) </summary>
