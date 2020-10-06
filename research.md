@@ -58,7 +58,7 @@ permalink: /research/
   
    **Press:** [NPR Morning Edition (Hidden Brain)](https://www.npr.org/2020/01/02/792976377/hidden-brain-the-way-you-feel-may-shape-the-way-you-think-about-your-job), [Washington Post](https://www.washingtonpost.com/us-policy/2019/03/29/most-influential-least-informed-decision-college-students-make/) <br />
    
-* [Inaccurate Statistical Discrimination](/f/Inaccurate_Statistical_Discrimination.pdf) (July 2020)<br />
+* [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) (July 2020)<br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
   NBER Working Paper #25935
 
@@ -66,7 +66,7 @@ permalink: /research/
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> Discrimination has been widely studied in economics and other disciplines. In addition to identifying evidence of discrimination, economists often categorize the source of discrimination as either taste-based or statistical. Categorizing discrimination in this way can be valuable for policy design and welfare analysis. We argue that a further categorization is important and needed. Specifically, in many situations economic agents may have inaccurate beliefs about the expected productivity or performance of a social group. This motivates our proposed distinction between accurate (based on correct beliefs) and inaccurate (based on incorrect beliefs) statistical discrimination. We do a thorough review of the discrimination literature and argue that this distinction is rarely discussed. Using an online experiment, we illustrate how to identify accurate versus inaccurate statistical discrimination. We show that ignoring this distinction – as is often the case in the discrimination literature – can lead to erroneous interpretations of the motives and implications of discriminatory behavior. In particular, when not explicitly accounted for, inaccurate statistical discrimination can be mistaken for taste-based discrimination, accurate statistical discrimination, or a combination of the two.<br></p> </blockquote>   
+   <p align="left"> Discrimination---differential treatment by group identity---is widely studied in economics. Its source is often categorized as taste-based or statistical (belief-based)---a valuable distinction for policy design and welfare analysis. We argue that in many situations, individuals may have inaccurate beliefs about the relevant characteristics of different groups. This possibility creates an identification problem when isolating the source of discrimination. When not accounted for, we show both theoretically and experimentally that such \emph{inaccurate statistical discrimination} will be misclassified as taste-based. A review of the empirical discrimination literature in economics reveals the scope of this issue: a small minority of papers---fewer than 7\%---consider inaccurate beliefs. We then examine two alternative methodologies for differentiating between these three sources of discrimination---varying the amount of information presented to evaluators and eliciting evaluators' beliefs. We propose a possible intervention: when presented with accurate information, we show that inaccurate statistical discrimination decreases.<br></p> </blockquote>   
    </details>
    
    [[Literature Survey Papers](/f/Inaccurate_Statistical_Discrimination_LitReviewCitations.pdf)] [[Qualtrics Survey](/f/Inaccurate_Statistical_Discrimination_Qualtrics.pdf)]<br />
