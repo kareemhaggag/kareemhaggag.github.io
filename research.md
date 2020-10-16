@@ -5,7 +5,7 @@ permalink: /research/
 ## Working Papers
 
 
-* [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) (September 2020)<br>
+* [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) (October 2020)<br>
   (with Stephen B. Billings & Eric Chyn)<br />
   NBER Working Paper #27302<br />
   Conditionally Accepted at **American Economic Review: Insights**
@@ -13,7 +13,7 @@ permalink: /research/
 
    <details><summary> Abstract (+) </summary>
    
-   <blockquote><p align="left"> How do early-life experiences shape political identity? In this paper, we study how the end of race-based busing in Charlotte-Mecklenburg schools---an event that led to large changes in school racial composition---affected the party affiliations of those children in adulthood. Consistent with the contact hypothesis, we find that a 10-percentage point increase in the share of minorities in a white student's assigned school decreased their likelihood of registering as a Republican by 2 percentage points (12 percent). Overall, our results suggest that schools in childhood play an important role in shaping partisanship.</p> </blockquote>   
+   <blockquote><p align="left"> How do early-life experiences shape political identity? We examine the end of race-based busing in Charlotte-Mecklenburg schools, an event that led to large changes in school racial composition. Using administrative data, we compare party affiliation in adulthood for students who had lived on opposite sides of newly-drawn school boundaries. Consistent with the contact hypothesis, we find that a 10-percentage point increase in the share of minorities in a white student's assigned school decreased their likelihood of registering as a Republican by 2 percentage points (12 percent). Our results suggest that schools in childhood play an important role in shaping partisanship.</p> </blockquote>   
    </details>
   
    **Press:** [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans) <br />
