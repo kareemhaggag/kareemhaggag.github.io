@@ -23,7 +23,7 @@ permalink: /research/
 * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) (October 2020)<br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
   NBER Working Paper #26487<br />
-  Conditionally Accepted at **Review of Economics and Statistics**
+  Accepted at **Review of Economics and Statistics**
 
 
    <details><summary> Abstract (+) </summary>
