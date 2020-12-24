@@ -8,7 +8,7 @@ permalink: /research/
 * [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) (October 2020)<br>
   (with Stephen B. Billings & Eric Chyn)<br />
   NBER Working Paper #27302<br />
-  Conditionally Accepted at **American Economic Review: Insights**
+  Forthcoming at **American Economic Review: Insights**
 
 
    <details><summary> Abstract (+) </summary>
@@ -23,7 +23,7 @@ permalink: /research/
 * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) (October 2020)<br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
   NBER Working Paper #26487<br />
-  Accepted at **Review of Economics and Statistics**
+  Forthcoming at **Review of Economics and Statistics**
 
 
    <details><summary> Abstract (+) </summary>
@@ -45,7 +45,7 @@ permalink: /research/
    <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.</p> </blockquote>   
    </details> <br />
 
-* [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf) (June 2019)<br />
+* [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf) (December 2020)<br />
   (with Richard W. Patterson, Nolan G. Pope, & Aaron Feudo)<br />
   Revise & Resubmit at **Journal of Public Economics**
 
