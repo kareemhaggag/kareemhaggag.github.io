@@ -5,7 +5,7 @@ permalink: /research/
      
 ## Publications
 
-* [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) (October 2020)<br>
+* [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) <br>
   (with Stephen B. Billings & Eric Chyn)<br />
   NBER Working Paper #27302<br />
   Forthcoming at **American Economic Review: Insights**
@@ -20,7 +20,7 @@ permalink: /research/
 
 
    
-* [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) (October 2020)<br />
+* [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
   NBER Working Paper #26487<br />
   Forthcoming at **Review of Economics and Statistics**
