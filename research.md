@@ -5,7 +5,7 @@ permalink: /research/
      
 ## Publications
 
-* [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf) (December 2020)<br />
+* [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)<br />
   (with Richard W. Patterson, Nolan G. Pope, & Aaron Feudo)<br />
   Forthcoming at **Journal of Public Economics**
 
