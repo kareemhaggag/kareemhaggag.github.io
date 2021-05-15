@@ -10,6 +10,7 @@ I am an Assistant Professor in the [Social and Decision Sciences department at C
 
 Prior to joining the CMU faculty, I was a postdoctoral fellow with the [Financial Inclusion Program] at Yale University/Innovations for Poverty Action and received my PhD in economics from the [University of Chicago Booth School of Business] in 2016.
 
+Beginning in Summer 2021, I will be an Assistant Professor in the Behavioral Decision Making area of the [UCLA Anderson School of Management].
 ## Contact
 
 Office: Porter Hall, 208-H <br />
@@ -21,3 +22,4 @@ Email: [kareem.haggag@cmu.edu]
 [Financial Inclusion Program]: http://www.poverty-action.org/program-area/financial-inclusion
 [University of Chicago Booth School of Business]: https://www.chicagobooth.edu
 [research]: http://www.kareemhaggag.com/research
+[UCLA Anderson School of Management]: https://www.anderson.ucla.edu/faculty-and-research/behavioral-decision-making
