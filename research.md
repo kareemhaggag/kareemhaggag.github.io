@@ -33,6 +33,7 @@ permalink: /research/
    </details>
   
    **Press:** [Washington Post Op-Ed](https://www.washingtonpost.com/opinions/there-are-stark-racial-disparities-in-voting-times-heres-how-to-fix-them/2019/12/16/5fb4948a-1c5b-11ea-b4c1-fd0d91b60d9e_story.html), [Scientific American](https://www.scientificamerican.com/article/smartphone-data-show-voters-in-black-neighborhoods-wait-longer1/), [The Root](https://www.theroot.com/study-black-people-wait-longer-to-vote-1838853772), [The Hill](https://thehill.com/homenews/campaign/460965-study-voters-in-black-neighborhoods-face-longer-wait-times), [New York Times](https://www.nytimes.com/2020/06/12/business/for-racial-justice-employees-need-paid-hours-off-for-voting.html) <br />
+   [[Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RRHANS)] <br />
 
 
 * [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)<br />
