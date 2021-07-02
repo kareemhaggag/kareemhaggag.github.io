@@ -18,6 +18,7 @@ Email: [kareem.haggag@cmu.edu]
 
 [kareem.haggag@cmu.edu]: mailto:kareem.haggag@cmu.edu
 [UCLA Anderson School of Management]: https://www.anderson.ucla.edu/faculty-and-research/behavioral-decision-making/faculty
+[National Bureau of Economic Research (NBER)]: https://www.nber.org/people/kareem_haggag
 [Carnegie Mellon University]: http://www.cmu.edu/dietrich/sds/index.html
 [Financial Inclusion Program]: http://www.poverty-action.org/program-area/financial-inclusion
 [University of Chicago Booth School of Business]: https://www.chicagobooth.edu
