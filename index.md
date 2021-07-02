@@ -6,11 +6,10 @@ permalink: /
 <br />
 {% include image.html url="images/haggag.png" caption="" max_width="100px" align="right" %}
 
-I am an Assistant Professor in the [Social and Decision Sciences department at Carnegie Mellon University] and a Faculty Research Fellow at the National Bureau of Economic Research (NBER). I study topics at the intersection of economics and psychology, and my [research] has explored attribution bias in consumer choice and education, the role of defaults in customer tipping behavior, learning by doing by taxi drivers, inaccurate statistical discrimination, racial disparities in voting wait times, and the effects of early-life experiences on voter participation and partisan identity. 
+I am an Assistant Professor at the [UCLA Anderson School of Management] and a Faculty Research Fellow at the National Bureau of Economic Research (NBER). I study topics at the intersection of economics and psychology, and my [research] has explored attribution bias in consumer choice and education, the role of defaults in customer tipping behavior, learning by doing by taxi drivers, inaccurate statistical discrimination, racial disparities in voting wait times, and the effects of early-life experiences on voter participation and partisan identity. 
 
-Prior to joining the CMU faculty, I was a postdoctoral fellow with the [Financial Inclusion Program] at Yale University/Innovations for Poverty Action and received my PhD in economics from the [University of Chicago Booth School of Business] in 2016.
+Prior to joining the UCLA faculty, I was an assistant professor at [Carnegie Mellon University], a postdoctoral fellow with the [Financial Inclusion Program] at Yale University/Innovations for Poverty Action, and received my PhD in economics from the [University of Chicago Booth School of Business] in 2016.
 
-Beginning in Summer 2021, I will be an Assistant Professor in the Behavioral Decision Making area of the [UCLA Anderson School of Management].
 ## Contact
 
 Office: Porter Hall, 208-H <br />
@@ -18,7 +17,8 @@ Email: [kareem.haggag@cmu.edu]
 
 
 [kareem.haggag@cmu.edu]: mailto:kareem.haggag@cmu.edu
-[Social and Decision Sciences department at Carnegie Mellon University]: http://www.cmu.edu/dietrich/sds/index.html
+[UCLA Anderson School of Management]: https://www.anderson.ucla.edu/faculty-and-research/behavioral-decision-making/faculty
+[Carnegie Mellon University]: http://www.cmu.edu/dietrich/sds/index.html
 [Financial Inclusion Program]: http://www.poverty-action.org/program-area/financial-inclusion
 [University of Chicago Booth School of Business]: https://www.chicagobooth.edu
 [research]: http://www.kareemhaggag.com/research
