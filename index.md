@@ -4,7 +4,7 @@ output: pdf_document
 permalink: /
 ---
 <br />
-{% include image.html url="images/haggag.png" caption="" width="200" align="right" %}
+{% include image.html url="images/haggag.png" caption="" width="500" align="right" %}
 
 I am an Assistant Professor at the [UCLA Anderson School of Management] and a Faculty Research Fellow at the [National Bureau of Economic Research (NBER)]. I study topics at the intersection of economics and psychology, and my [research] has explored attribution bias in consumer choice and education, the role of defaults in customer tipping behavior, learning by doing by taxi drivers, inaccurate statistical discrimination, racial disparities in voting wait times, and the effects of early-life experiences on voter participation and partisan identity. 
 
