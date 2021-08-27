@@ -12,11 +12,10 @@ Prior to joining the UCLA faculty, I was an assistant professor at [Carnegie Mel
 
 ## Contact
 
-Office: Porter Hall, 208-H <br />
-Email: [kareem.haggag@cmu.edu]
+Email: [kareem.haggag@anderson.ucla.edu]
 
 
-[kareem.haggag@cmu.edu]: mailto:kareem.haggag@cmu.edu
+[kareem.haggag@anderson.ucla.edu]: mailto:kareem.haggag@anderson.ucla.edu
 [UCLA Anderson School of Management]: https://www.anderson.ucla.edu/faculty-and-research/behavioral-decision-making/faculty
 [National Bureau of Economic Research (NBER)]: https://www.nber.org/people/kareem_haggag
 [Carnegie Mellon University]: http://www.cmu.edu/dietrich/sds/index.html

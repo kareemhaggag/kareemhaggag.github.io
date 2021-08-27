@@ -5,20 +5,6 @@ permalink: /research/
      
 ## Publications
 
-* [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) <br>
-  (with Stephen B. Billings & Eric Chyn)<br />
-  NBER Working Paper #27302<br />
-  Forthcoming at **American Economic Review: Insights**
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote><p align="left"> How do early-life experiences shape political identity? We examine the end of race-based busing in Charlotte-Mecklenburg schools, an event that led to large changes in school racial composition. Using administrative data, we compare party affiliation in adulthood for students who had lived on opposite sides of newly-drawn school boundaries. Consistent with the contact hypothesis, we find that a 10-percentage point increase in the share of minorities in a white student's assigned school decreased their likelihood of registering as a Republican by 2 percentage points (12 percent). Our results suggest that schools in childhood play an important role in shaping partisanship.</p> </blockquote>   
-   </details>
-  
-   **Press:** [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans) <br />
-
-
    
 * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
@@ -34,6 +20,21 @@ permalink: /research/
   
    **Press:** [Washington Post Op-Ed](https://www.washingtonpost.com/opinions/there-are-stark-racial-disparities-in-voting-times-heres-how-to-fix-them/2019/12/16/5fb4948a-1c5b-11ea-b4c1-fd0d91b60d9e_story.html), [Scientific American](https://www.scientificamerican.com/article/smartphone-data-show-voters-in-black-neighborhoods-wait-longer1/), [The Root](https://www.theroot.com/study-black-people-wait-longer-to-vote-1838853772), [The Hill](https://thehill.com/homenews/campaign/460965-study-voters-in-black-neighborhoods-face-longer-wait-times), [New York Times](https://www.nytimes.com/2020/06/12/business/for-racial-justice-employees-need-paid-hours-off-for-voting.html) <br />
    [[Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RRHANS)] <br />
+
+
+* [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) <br>
+  (with Stephen B. Billings & Eric Chyn)<br />
+  NBER Working Paper #27302<br />
+  **American Economic Review: Insights**, 3(3), 267-284. 2021. [*Lead Article*]
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote><p align="left"> How do early-life experiences shape political identity? We examine the end of race-based busing in Charlotte-Mecklenburg schools, an event that led to large changes in school racial composition. Using administrative data, we compare party affiliation in adulthood for students who had lived on opposite sides of newly-drawn school boundaries. Consistent with the contact hypothesis, we find that a 10-percentage point increase in the share of minorities in a white student's assigned school decreased their likelihood of registering as a Republican by 2 percentage points (12 percent). Our results suggest that schools in childhood play an important role in shaping partisanship.</p> </blockquote>   
+   </details>
+  
+   **Press:** [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans)<br />
+   [[Online Appendix](/f/School_Diversity_Partisanship_onlineappendix_.pdf)]
 
 
 * [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)<br />
