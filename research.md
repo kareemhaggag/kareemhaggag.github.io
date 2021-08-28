@@ -34,7 +34,7 @@ permalink: /research/
    </details>
   
    **Press:** [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans)<br />
-   [[Online Appendix](/f/School_Diversity_Partisanship_onlineappendix_.pdf)]
+   [[Online Appendix](/f/School_Diversity_Partisanship_onlineappendix.pdf)]
 
 
 * [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)<br />
