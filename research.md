@@ -33,7 +33,7 @@ permalink: /research/
    <blockquote><p align="left"> How do early-life experiences shape political identity? We examine the end of race-based busing in Charlotte-Mecklenburg schools, an event that led to large changes in school racial composition. Using administrative data, we compare party affiliation in adulthood for students who had lived on opposite sides of newly-drawn school boundaries. Consistent with the contact hypothesis, we find that a 10-percentage point increase in the share of minorities in a white student's assigned school decreased their likelihood of registering as a Republican by 2 percentage points (12 percent). Our results suggest that schools in childhood play an important role in shaping partisanship.</p> </blockquote>   
    </details>
   
-   **Press:** [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans)<br />
+   **Press:** [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans), [New York Times](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html) <br />
    [[Online Appendix](/f/School_Diversity_Partisanship_onlineappendix.pdf)]
 
 
@@ -105,7 +105,7 @@ permalink: /research/
 * [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf) (November 2019)<br>
   (with Eric Chyn)<br />
   NBER Working Paper #26515<br />
-  Revise & Resubmit at **Review of Economics and Statistics**
+  Conditionally Accepted at **Review of Economics and Statistics**
 
 
    <details><summary> Abstract (+) </summary>
