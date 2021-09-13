@@ -14,10 +14,11 @@ permalink: /research/
 
    <details><summary> Abstract (+) </summary>
    
-   <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We study voting rates of children who were displaced by public housing demolitions and moved to higher opportunity areas using housing vouchers. Those displaced during childhood had 11\% (2pp) higher participation in the 2016 Presidential election and were 10\% (2.9pp) more likely to vote in any general election. We argue that the results are unlikely to be driven by changes in incarceration or parental outcomes, but rather by political socialization or improvements in education and earnings. These results suggest that housing assistance programs may reduce inequality in political participation. </p> </blockquote>   
+   <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We study voting rates of children who were displaced by public housing demolitions and moved to higher opportunity areas using housing vouchers. Those displaced during childhood had 11% (2pp) higher participation in the 2016 Presidential election and were 10% (2.9pp) more likely to vote in any general election. We argue that the results are unlikely to be driven by changes in incarceration or parental outcomes, but rather by political socialization or improvements in education and earnings. These results suggest that housing assistance programs may reduce inequality in political participation.<br></p> </blockquote>   
    </details> <br />
    
-   * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
+     
+ * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
   NBER Working Paper #26487<br />
   Forthcoming at **Review of Economics and Statistics**
