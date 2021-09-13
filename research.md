@@ -6,7 +6,18 @@ permalink: /research/
 ## Publications
 
    
-* [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
+* [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)<br>
+  (with Eric Chyn)<br />
+  NBER Working Paper #26515<br />
+  Forthcoming at **Review of Economics and Statistics**
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We study voting rates of children who were displaced by public housing demolitions and moved to higher opportunity areas using housing vouchers. Those displaced during childhood had 11\% (2pp) higher participation in the 2016 Presidential election and were 10\% (2.9pp) more likely to vote in any general election. We argue that the results are unlikely to be driven by changes in incarceration or parental outcomes, but rather by political socialization or improvements in education and earnings. These results suggest that housing assistance programs may reduce inequality in political participation. </p> </blockquote>   
+   </details> <br />
+   
+   * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
   NBER Working Paper #26487<br />
   Forthcoming at **Review of Economics and Statistics**
@@ -100,18 +111,6 @@ permalink: /research/
    [[Online Appendix](/f/Default_Tips_onlineappendix.pdf)]
    
 ## Working Papers
-
-
-* [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf) (November 2019)<br>
-  (with Eric Chyn)<br />
-  NBER Working Paper #26515<br />
-  Conditionally Accepted at **Review of Economics and Statistics**
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.</p> </blockquote>   
-   </details> <br />
    
 * [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) (July 2020)<br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
