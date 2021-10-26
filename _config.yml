@@ -22,10 +22,10 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider: google
+    provider: statcounter
     statcounter:
-        sc_project  :
-        sc_security :
+        sc_project  : 12670042
+        sc_security : "bbe4f3a0"
         sc_invisible: 1
         sc_text     : 2
     google:
