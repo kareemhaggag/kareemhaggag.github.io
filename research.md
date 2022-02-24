@@ -107,7 +107,7 @@ permalink: /research/
    </details>
   
    **Press**: [Bloomberg](https://www.bloomberg.com/view/articles/2013-04-09/check-here-to-tip-taxi-drivers-or-save-for-401-k-), [NPR Morning Edition](https://www.npr.org/blogs/alltechconsidered/2014/03/05/283917108/technology-may-soon-get-you-to-be-a-bigger-tipper), [Yahoo! Finance](http://finance.yahoo.com/news/the-pain-of-paying--how-technology-tricks-you-into-tipping-more-203225829.html), [Pacific Standard Magazine](https://psmag.com/the-tipping-point-is-this-the-beginning-of-the-end-for-gratuities-94ca0ecb798b#.y6m8yhv27), [Guardian](https://www.theguardian.com/global/commentisfree/2015/mar/29/cass-sunstein-nudge-endless-options-confusing), [New York Times](https://www.nytimes.com/2015/03/26/style/10-20-apps-are-changing-how-we-tip.html?pagewanted=all), [Boston Globe](http://www.bostonglobe.com/lifestyle/style/2015/04/28/pardon-brother-can-you-spare-tip-for-cup-coffee/2JmMth6AkjttK5GnEbu1JL/story.html)<br />
-   Editor's Choice: [Science Magazine, Vol 345(6203)](http://science.sciencemag.org/content/345/6203/twil.full)<br />
+   Editor's Choice: [Science Magazine, Vol 345(6203)](https://www.science.org/doi/10.1126/science.2014.345.6203.twil)<br />
    [[Online Appendix](/f/Default_Tips_onlineappendix.pdf)]
    
 ## Working Papers
@@ -125,4 +125,4 @@ permalink: /research/
 Its source is often categorized as taste-based or statistical (belief-based) --- a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about the relevant characteristics of different groups. This paper demonstrates that this possibility creates an identification problem when isolating the source of discrimination. A review of the empirical discrimination literature in economics reveals that a small minority of papers--- fewer than 7% ---consider inaccurate beliefs. We show both theoretically and experimentally that, if not accounted for, such *inaccurate statistical discrimination* will be misclassified as taste-based. We then examine three alternative methodologies for differentiating between different sources of discrimination: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information. Importantly, the latter can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors.<br></p> </blockquote>   
    </details>
    
-   **Press:** [Freakonomics](http://freakonomics.com/podcast/princess/)<br />
+   **Press:** [Freakonomics](https://freakonomics.com/podcast/does-hollywood-still-have-a-princess-problem-ep-394/)<br />
