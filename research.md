@@ -113,7 +113,7 @@ permalink: /research/
 ## Working Papers
    
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (April 2022)<br />
-  (with Eric Chy nad Bryan Stuart)<br />
+  (with Eric Chyn and Bryan Stuart)<br />
 
 
    <details><summary> Abstract (+) </summary>
