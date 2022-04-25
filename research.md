@@ -112,6 +112,16 @@ permalink: /research/
    
 ## Working Papers
    
+* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (April 2022)<br />
+  (with Eric Chy nad Bryan Stuart)<br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> This paper provides new evidence on the causal impacts of city-wide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century (Ananat, 2011). Our analysis finds that higher levels of segregation reduce upward mobility for Black children from households across the income distribution and white children from lower-income households. The decline in upward mobility arises from both causal place and sorting channels. Moreover, segregation lowers primary school test scores and increases incarceration rates, teenage birth rates, and racially conservative attitudes.<br></p> </blockquote>   
+   </details> <br />
+
 * [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) (July 2021)<br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
   NBER Working Paper #25935<br />
