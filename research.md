@@ -112,6 +112,16 @@ permalink: /research/
    
 ## Working Papers
    
+* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (June 2022)<br />
+  (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that ?randomly? receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources.<br></p> </blockquote>   
+   </details> <br />
+
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (April 2022)<br />
   (with Eric Chyn and Bryan Stuart)<br />
 
