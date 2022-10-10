@@ -82,7 +82,9 @@ permalink: /research/
    
    <blockquote>
    <p align="left"> When judging the value of a good, people may be overly influenced by the state in which they previously consumed it. For example, someone who tries out a new restaurant while very hungry may subsequently rate it as high quality, even if the food is mediocre. We produce a simple framework for this form of attribution bias that embeds a standard model of decision making as a special case. We test for attribution bias across two consumer decisions. First, we conduct an experiment in which we randomly manipulate the thirst of participants prior to consuming a new drink. Second, using data from thousands of amusement park visitors, we explore how pleasant weather during their most recent trip affects their stated and actual likelihood of returning. In both of these domains, we find evidence that people misattribute the influence of a temporary state to a stable quality of the consumption good. We provide evidence against several alternative accounts for our findings and discuss the broader implications of attribution bias in economic decision making.<br></p> </blockquote>   
-   </details> <br />
+   </details> 
+  
+   **Press:** [Choiceology](https://www.schwab.com/learn/story/so-much-common-with-guests-samantha-futerman-anais-bordier-kareem-haggag)<br />
    
 *  [Learning by Driving: Productivity Improvements by New York City Taxi Drivers](/f/Learning_by_Driving.pdf)<br />
   (with Brian McManus & Giovanni Paci)<br />
@@ -112,6 +114,17 @@ permalink: /research/
    
 ## Working Papers
    
+* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (October 2022)<br />
+  (with Eric Chyn and Bryan Stuart)<br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> This paper provides new evidence on the causal impacts of city-wide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration rates and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes.<br></p> </blockquote>   
+   </details> <br />
+
+   
 * [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (June 2022)<br />
   (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
 
@@ -122,15 +135,6 @@ permalink: /research/
    <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that *randomly* receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources.<br></p> </blockquote>   
    </details> <br />
 
-* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (April 2022)<br />
-  (with Eric Chyn and Bryan Stuart)<br />
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> This paper provides new evidence on the causal impacts of city-wide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century (Ananat, 2011). Our analysis finds that higher levels of segregation reduce upward mobility for Black children from households across the income distribution and white children from lower-income households. The decline in upward mobility arises from both causal place and sorting channels. Moreover, segregation lowers primary school test scores and increases incarceration rates, teenage birth rates, and racially conservative attitudes.<br></p> </blockquote>   
-   </details> <br />
 
 * [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) (July 2021)<br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
