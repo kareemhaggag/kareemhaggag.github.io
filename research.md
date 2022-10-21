@@ -116,6 +116,7 @@ permalink: /research/
    
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (October 2022)<br />
   (with Eric Chyn and Bryan Stuart)<br />
+  NBER Working Paper #30563<br />
 
 
    <details><summary> Abstract (+) </summary>
@@ -152,7 +153,7 @@ Its source is often categorized as taste-based or statistical (belief-based) ---
    **Press:** [Freakonomics](https://freakonomics.com/podcast/does-hollywood-still-have-a-princess-problem-ep-394/)<br />
    
    
-* [Expanding Access to Finance through Micro-Equity](https://divportal.usaid.gov/s/project/a0gt00000010mb6AAA/expanding-access-to-finance-through-microequity) (October 2021)<br />
+* [Expanding Access to Finance through Micro-Equity](https://divportal.usaid.gov/s/project/a0gt00000010mb6AAA/expanding-access-to-finance-through-microequity) (October 2022)<br />
   (with Adam Osman)<br />
   Revise & Resubmit at **Journal of Development Economics** based on [pre-results review](https://www.bitss.org/publishing/jde/). <br />
   Eventual publication venue TBD. Progress: In the field <br />
