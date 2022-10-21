@@ -154,7 +154,7 @@ Its source is often categorized as taste-based or statistical (belief-based) ---
    
 * [Expanding Access to Finance through Micro-Equity](https://divportal.usaid.gov/s/project/a0gt00000010mb6AAA/expanding-access-to-finance-through-microequity) (October 2021)<br />
   (with Adam Osman)<br />
-  Revise \& Resubmit at **Journal of Development Economics** based on [pre-results review](https://www.bitss.org/publishing/jde/). <br />
+  Revise & Resubmit at **Journal of Development Economics** based on [pre-results review](https://www.bitss.org/publishing/jde/). <br />
   Eventual publication venue TBD. <br />
   Progress: In the field <br />
 
