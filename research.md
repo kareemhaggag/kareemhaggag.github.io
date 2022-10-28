@@ -137,17 +137,16 @@ permalink: /research/
    </details> <br />
 
 
-* [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) (July 2021)<br />
+* [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) (October 2022)<br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
   NBER Working Paper #25935<br />
-  Revise and Resubmit at **Review of Economics and Statistics**
+  Revised and Resubmitted to **Review of Economics and Statistics**
 
 
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> Discrimination, defined as differential treatment by group identity, is widely studied in economics. 
-Its source is often categorized as taste-based or statistical (belief-based) --- a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about the relevant characteristics of different groups. This paper demonstrates that this possibility creates an identification problem when isolating the source of discrimination. A review of the empirical discrimination literature in economics reveals that a small minority of papers--- fewer than 7% ---consider inaccurate beliefs. We show both theoretically and experimentally that, if not accounted for, such *inaccurate statistical discrimination* will be misclassified as taste-based. We then examine three alternative methodologies for differentiating between different sources of discrimination: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information. Importantly, the latter can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors.<br></p> </blockquote>   
+   <p align="left"> This paper investigates inaccurate beliefs as a source of discrimination. Economists have typically characterized discrimination as stemming from tastes (preference-based) or accurate statistical (belief-based) motives---a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about how relevant characteristics, e.g. productivity, are correlated with group identity. A review of the empirical discrimination literature in economics reveals that a small minority of papers---fewer than 7%---consider the possibility of such *inaccurate statistical discrimination*. We show both theoretically and experimentally that, if present but not accounted for, inaccurate beliefs will lead to a misclassification of the source. We then outline three methodologies that either fully or partially identify these three sources: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information about the relevant distributions. Importantly, the third method can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors. .<br></p> </blockquote>   
    </details>
    
    **Press:** [Freakonomics](https://freakonomics.com/podcast/does-hollywood-still-have-a-princess-problem-ep-394/)<br />
