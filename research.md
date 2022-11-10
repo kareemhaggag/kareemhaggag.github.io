@@ -140,7 +140,7 @@ permalink: /research/
 * [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) (October 2022)<br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
   NBER Working Paper #25935<br />
-  Revised and Resubmitted to **Review of Economics and Statistics**
+  Conditionally Accepted at **Review of Economics and Statistics**
 
 
    <details><summary> Abstract (+) </summary>
