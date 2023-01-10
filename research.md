@@ -16,7 +16,7 @@ permalink: /research/
    
    <blockquote>
    <p align="left"> This paper studies inaccurate beliefs as a source of discrimination. Economists have typically characterized discrimination as stemming from tastes (preference-based) or accurate statistical (belief-based) sources---a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about how relevant characteristics?e.g. productivity, signals? are correlated with group identity. A review of the empirical discrimination literature in economics reveals that a small minority of papers---fewer than 7%---consider the possibility of such inaccurate statistical discrimination. Using a theoretical framework and an experiment in a labor market setting, we show that not accounting for inaccurate beliefs will lead to a misclassification of discrimination?s source. We then outline three methodologies that either fully or partially identify the three potential sources: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information about the relevant distributions. Importantly, the third method can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors.<br></p> </blockquote>   
-   </details>
+   </details><br />
    
    
  * [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)<br>
@@ -60,7 +60,7 @@ permalink: /research/
    </details>
   
    **Press:** [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans), [New York Times](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html), [AEA Research Highlight](https://www.aeaweb.org/research/school-diversity-political-affiliation), [UCLA Anderson Review](https://anderson-review.ucla.edu/schooling-alongside-minorities-reduces-white-students-tendency-to-vote-republican/) <br />
-   [[Online Appendix](/f/School_Diversity_Partisanship_onlineappendix.pdf)]
+   [[Online Appendix](/f/School_Diversity_Partisanship_onlineappendix.pdf)]<br />
 
 
 * [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)<br />
@@ -75,6 +75,7 @@ permalink: /research/
    </details>
   
    **Press:** [NPR Morning Edition (Hidden Brain)](https://www.npr.org/2020/01/02/792976377/hidden-brain-the-way-you-feel-may-shape-the-way-you-think-about-your-job), [Washington Post](https://www.washingtonpost.com/us-policy/2019/03/29/most-influential-least-informed-decision-college-students-make/) <br />
+   
 
 * [Blue Porches: Finding the Limits of External Validity of the Endowment Effect](/f/Blue_Porches.pdf)<br />
   (with Gharad Bryan, Matthew Grant, Dean Karlan, Meredith Startz, & Chris Udry)<br />
@@ -100,6 +101,7 @@ permalink: /research/
   
    **Press:** [Choiceology](https://www.schwab.com/learn/story/so-much-common-with-guests-samantha-futerman-anais-bordier-kareem-haggag)<br />
    
+   
 *  [Learning by Driving: Productivity Improvements by New York City Taxi Drivers](/f/Learning_by_Driving.pdf)<br />
   (with Brian McManus & Giovanni Paci)<br />
   **American Economic Journal: Applied Economics**, 9(1), 70-95. 2017.
@@ -110,6 +112,7 @@ permalink: /research/
    <blockquote>
    <p align="left"> We study learning by doing (LBD) by New York City taxi drivers, who have substantial discretion over their driving strategies and receive compensation closely tied to their success in finding customers. In addition to documenting significant learning by these entrepreneurial agents, we exploit our data’s breadth to investigate the factors that contribute to driver improvement across a variety of situations. New drivers lag farther behind experienced drivers when in difficult situations. Drivers benefit from accumulating neighborhood-specific experience, which affects how they search for their next customers.<br></p> </blockquote>   
    </details> <br />
+   
    
 *  [Default Tips](/f/Default_Tips.pdf)<br />
   (with Giovanni Paci)<br />
