@@ -6,7 +6,20 @@ permalink: /research/
 ## Publications
 
    
-* [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)<br>
+* [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) <br />
+  (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
+  NBER Working Paper #25935<br />
+  Forthcoming at **Review of Economics and Statistics**
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> This paper studies inaccurate beliefs as a source of discrimination. Economists have typically characterized discrimination as stemming from tastes (preference-based) or accurate statistical (belief-based) sources---a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about how relevant characteristics?e.g. productivity, signals? are correlated with group identity. A review of the empirical discrimination literature in economics reveals that a small minority of papers---fewer than 7%---consider the possibility of such inaccurate statistical discrimination. Using a theoretical framework and an experiment in a labor market setting, we show that not accounting for inaccurate beliefs will lead to a misclassification of discrimination?s source. We then outline three methodologies that either fully or partially identify the three potential sources: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information about the relevant distributions. Importantly, the third method can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors.<br></p> </blockquote>   
+   </details>
+   
+   
+ * [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)<br>
   (with Eric Chyn)<br />
   NBER Working Paper #26515<br />
   Forthcoming at **Review of Economics and Statistics**
@@ -136,21 +149,6 @@ permalink: /research/
    <blockquote>
    <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that *randomly* receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources.<br></p> </blockquote>   
    </details> <br />
-
-
-* [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) (October 2022)<br />
-  (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
-  NBER Working Paper #25935<br />
-  Conditionally Accepted at **Review of Economics and Statistics**
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> This paper investigates inaccurate beliefs as a source of discrimination. Economists have typically characterized discrimination as stemming from tastes (preference-based) or accurate statistical (belief-based) motives---a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about how relevant characteristics, e.g. productivity, are correlated with group identity. A review of the empirical discrimination literature in economics reveals that a small minority of papers---fewer than 7%---consider the possibility of such *inaccurate statistical discrimination*. We show both theoretically and experimentally that, if present but not accounted for, inaccurate beliefs will lead to a misclassification of the source. We then outline three methodologies that either fully or partially identify these three sources: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information about the relevant distributions. Importantly, the third method can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors. .<br></p> </blockquote>   
-   </details>
-   
-   **Press:** [Freakonomics](https://freakonomics.com/podcast/does-hollywood-still-have-a-princess-problem-ep-394/)<br />
    
    
 * [Expanding Access to Finance through Micro-Equity](https://divportal.usaid.gov/s/project/a0gt00000010mb6AAA/expanding-access-to-finance-through-microequity) (October 2022)<br />
