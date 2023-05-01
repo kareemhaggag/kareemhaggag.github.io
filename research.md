@@ -145,6 +145,7 @@ permalink: /research/
    
 * [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (June 2022)<br />
   (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
+  Revise & Resubmit at **Journal of Human Resources** <br />
 
 
    <details><summary> Abstract (+) </summary>
