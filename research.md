@@ -131,7 +131,7 @@ permalink: /research/
    
 ## Working Papers
    
-* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (October 2022)<br />
+* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (June 2023)<br />
   (with Eric Chyn and Bryan Stuart)<br />
   NBER Working Paper #30563<br />
 
@@ -139,7 +139,7 @@ permalink: /research/
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> This paper provides new evidence on the causal impacts of city-wide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes for White residents.<br></p> </blockquote>   
+   <p align="left"> This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes among White residents.<br></p> </blockquote>   
    </details> <br />
 
    
