@@ -158,7 +158,6 @@ permalink: /research/
 * [Expanding Access to Finance through Micro-Equity](https://divportal.usaid.gov/s/project/a0gt00000010mb6AAA/expanding-access-to-finance-through-microequity) (October 2022)<br />
   (with Adam Osman)<br />
   Revise & Resubmit at **Journal of Development Economics** based on [pre-results review](https://www.bitss.org/publishing/jde/). <br />
-  Eventual publication venue TBD. Progress: In the field <br />
 
 
    <details><summary> Abstract (+) </summary>
