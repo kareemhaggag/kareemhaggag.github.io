@@ -131,7 +131,19 @@ permalink: /research/
    
 ## Working Papers
    
-* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (June 2023)<br />
+* [Expanding Access to Finance through Micro-Equity](https://divportal.usaid.gov/s/project/a0gt00000010mb6AAA/expanding-access-to-finance-through-microequity) (October 2023)<br />
+  (with Adam Osman)<br />
+  Accepted at **Journal of Development Economics**, Pre-Results Review](https://www.bitss.org/publishing/jde/). <br />
+  Eventual publication venue TBD. Progress: In the field <br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> Conventional microcredit has expanded access to finance for many borrowers; however, a growing literature suggests that the rigid structure of standard debt contracts may limit both their impact and access. We run a field experiment to test the effects of a promising alternative to conventional microcredit. Specifically, we partner with a microfinance institution to design equity contracts in which clients are provided with a productive asset (a set of livestock) and split the proceeds of the sale of the asset at a fixed rate with the MFI. We market this product to livestock farmers alongside a flexible debt contract. Relative to the debt-financing status quo, expanding equity finance to small-scale entrepreneurs could affect both the type of client that participates in the formal financial market (*selection* effects), as well as their outcomes conditional on participation (*contract* effects). Our first set of results will characterize relative demand for the two contracts, as well as key characteristics on which the borrowers may differ (e.g., debt aversion, risk aversion, and religion). Our randomized experiment with 1,875 farmers will then characterize the effects on borrower outcomes (total income, total livestock revenue, product-specific livestock revenue, and repayment). <br></p> </blockquote>   
+   </details>
+
+* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (August 2023)<br />
   (with Eric Chyn and Bryan Stuart)<br />
   NBER Working Paper #30563<br />
 
@@ -143,7 +155,7 @@ permalink: /research/
    </details> <br />
 
    
-* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (June 2022)<br />
+* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (September 2022)<br />
   (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
   Revise & Resubmit at **Journal of Human Resources** <br />
 
@@ -153,15 +165,3 @@ permalink: /research/
    <blockquote>
    <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that *randomly* receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources.<br></p> </blockquote>   
    </details> <br />
-   
-   
-* [Expanding Access to Finance through Micro-Equity](https://divportal.usaid.gov/s/project/a0gt00000010mb6AAA/expanding-access-to-finance-through-microequity) (October 2022)<br />
-  (with Adam Osman)<br />
-  Revise & Resubmit at **Journal of Development Economics** based on [pre-results review](https://www.bitss.org/publishing/jde/). <br />
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> Conventional microcredit has expanded access to finance for many borrowers; however, a growing literature suggests that the rigid structure of standard debt contracts may limit both their impact and access. We run a field experiment to test the effects of a promising alternative to conventional microcredit. Specifically, we partner with a microfinance institution to design equity contracts in which clients are provided with a productive asset (a set of goats/sheep) and split the proceeds of the sale of the asset at a fixed rate with the MFI. We market this product to livestock farmers alongside a flexible debt contract. Relative to the debt-financing status quo, expanding equity finance to small-scale entrepreneurs could affect both the type of client that participates in the formal financial market (*selection* effects), as well as their outcomes conditional on participation (*contract* effects). Our first set of results will characterize relative demand for the two contracts, as well as key characteristics on which the borrowers may differ (e.g. debt aversion, risk aversion, and religion). Our randomized experiment with 1,500 clients will then characterize the effects on borrower outcomes (repayment, goat/sheep sale prices, livestock profits, and total income).<br></p> </blockquote>   
-   </details>
