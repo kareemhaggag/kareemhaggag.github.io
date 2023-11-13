@@ -131,9 +131,9 @@ permalink: /research/
    
 ## Working Papers
    
-* [Expanding Access to Finance through Micro-Equity](https://divportal.usaid.gov/s/project/a0gt00000010mb6AAA/expanding-access-to-finance-through-microequity) (October 2023)<br />
+* [Expanding Access to Finance through Micro-Equity](https://afosterri.org/jdepreresults/wp-content/uploads/2023/10/MicroEquity_JDE_Registered_Report_RR_17oct2023-134733baaf40ae70bcbb81477090e2da.pdf) (October 2023)<br />
   (with Adam Osman)<br />
-  Accepted at **Journal of Development Economics**, Pre-Results Review](https://www.bitss.org/publishing/jde/). <br />
+  Accepted at **Journal of Development Economics**, [Pre-Results Review](https://www.bitss.org/publishing/jde/). <br />
   Eventual publication venue TBD. Progress: In the field <br />
 
 
@@ -141,7 +141,7 @@ permalink: /research/
    
    <blockquote>
    <p align="left"> Conventional microcredit has expanded access to finance for many borrowers; however, a growing literature suggests that the rigid structure of standard debt contracts may limit both their impact and access. We run a field experiment to test the effects of a promising alternative to conventional microcredit. Specifically, we partner with a microfinance institution to design equity contracts in which clients are provided with a productive asset (a set of livestock) and split the proceeds of the sale of the asset at a fixed rate with the MFI. We market this product to livestock farmers alongside a flexible debt contract. Relative to the debt-financing status quo, expanding equity finance to small-scale entrepreneurs could affect both the type of client that participates in the formal financial market (*selection* effects), as well as their outcomes conditional on participation (*contract* effects). Our first set of results will characterize relative demand for the two contracts, as well as key characteristics on which the borrowers may differ (e.g., debt aversion, risk aversion, and religion). Our randomized experiment with 1,875 farmers will then characterize the effects on borrower outcomes (total income, total livestock revenue, product-specific livestock revenue, and repayment). <br></p> </blockquote>   
-   </details>
+   </details> <br />
 
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (August 2023)<br />
   (with Eric Chyn and Bryan Stuart)<br />
