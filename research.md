@@ -131,7 +131,7 @@ permalink: /research/
    
 ## Working Papers
    
-* [Flexible Pay and Labor Supply: Evidence from Uber?s Instant Pay](/f/InstantPay.pdf) (January 2024)<br />
+* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/InstantPay.pdf) (January 2024)<br />
   (with Keith Chen and Katherine Feinerman )<br />
 
 
