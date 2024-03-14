@@ -131,6 +131,16 @@ permalink: /research/
    
 ## Working Papers
    
+* [Flexible Pay and Labor Supply: Evidence from Uber?s Instant Pay](/f/InstantPay.pdf) (January 2024)<br />
+  (with Keith Chen and Katherine Feinerman )<br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> Modern tech platforms provide workers real-time control over when they work, and increasingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to *Instant Pay*, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased both drivers? work time and earnings (ITT: 2\%; TOT: 18-37\%). Furthermore, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle, aligning with predictions of hyperbolic discounting models. We discuss welfare and broader implications in contexts in which workers have the ability to flexibly supply labor. <br></p> </blockquote>   
+   </details> <br />
+   
 * [Expanding Access to Finance through Micro-Equity](https://afosterri.org/jdepreresults/wp-content/uploads/2023/10/MicroEquity_JDE_Registered_Report_RR_17oct2023-134733baaf40ae70bcbb81477090e2da.pdf) (October 2023)<br />
   (with Adam Osman)<br />
   Accepted at **Journal of Development Economics**, [Pre-Results Review](https://www.bitss.org/publishing/jde/). <br />
