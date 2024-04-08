@@ -131,6 +131,17 @@ permalink: /research/
    
 ## Working Papers
    
+* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen?s Bureau](/f/Freedmens_Bureau.pdf) (April 2024)<br />
+  (with Eric Chyn and Bryan Stuart)<br />
+  NBER Working Paper #32314<br />
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> How do majority groups respond to a narrowing of inequality in racially polarized environments? We study this question by examining the effects of the Freedmen?s Bureau, an agency created after the U.S. Civil War to provide aid to former slaves and launch institutional reform in the South. We use new historical records and an event study approach to estimate impacts of the Bureau on political economy in the South. In the decade immediately after the war, counties with Bureau field offices had reduced vote shares for Democrats, the major political party that previously championed slavery and opposed Black civil rights during Reconstruction. In the longer-run, we find evidence of backlash in the form of higher Democratic vote shares and increases in several forms of racial violence, including lynchings and attacks against Black schools. This backlash extends through the twentieth century, when we find that counties that once had a Bureau field office have higher rates of second-wave and third-wave Ku Klux Klan activity and lower rates of intergenerational economic mobility. Overall, our results suggest that the initial impacts of the Freedmen?s Bureau stimulated countervailing responses by White majorities who sought to offset social progress of Black Americans. <br></p> </blockquote>   
+   </details> <br />
+   
+   
 * [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (March 2024)<br />
   (with Keith Chen and Katherine Feinerman )<br />
 
