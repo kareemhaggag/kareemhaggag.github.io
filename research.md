@@ -52,7 +52,8 @@ permalink: /research/
    <p align="left"> Conventional microcredit has expanded access to finance for many borrowers; however, a growing literature suggests that the rigid structure of standard debt contracts may limit both their impact and access. We run a field experiment to test the effects of a promising alternative to conventional microcredit. Specifically, we partner with a microfinance institution to design equity contracts in which clients are provided with a productive asset (a set of livestock) and split the proceeds of the sale of the asset at a fixed rate with the MFI. We market this product to livestock farmers alongside a flexible debt contract. Relative to the debt-financing status quo, expanding equity finance to small-scale entrepreneurs could affect both the type of client that participates in the formal financial market (*selection* effects), as well as their outcomes conditional on participation (*contract* effects). Our first set of results will characterize relative demand for the two contracts, as well as key characteristics on which the borrowers may differ (e.g., debt aversion, risk aversion, and religion). Our randomized experiment with 1,875 farmers will then characterize the effects on borrower outcomes (total income, total livestock revenue, product-specific livestock revenue, and repayment). <br></p> </blockquote>   
    </details> <br />
    
-   ## Publications
+ 
+ ## Publications
 
    
 * [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf)<br />
