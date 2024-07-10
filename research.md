@@ -17,7 +17,7 @@ permalink: /research/
    
    
 * [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (March 2024)<br />
-  (with Keith Chen and Katherine Feinerman )<br />
+  (with Keith Chen and Katherine Feinerman)<br />
   Revise & Resubmit at **Management Science** <br />
 
 
