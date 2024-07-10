@@ -3,10 +3,70 @@ layout: page
 permalink: /research/
 ---
      
-## Publications
+## Working Papers
+   
+* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (April 2024)<br />
+  (with Eric Chyn and Bryan Stuart)<br />
+  NBER Working Paper #32314<br />
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> How do majority groups respond to a narrowing of inequality in racially polarized environments? We study this question by examining the effects of the Freedmen's Bureau, an agency created after the U.S. Civil War to provide aid to former slaves and launch institutional reform in the South. We use new historical records and an event study approach to estimate impacts of the Bureau on political economy in the South. In the decade immediately after the war, counties with Bureau field offices had reduced vote shares for Democrats, the major political party that previously championed slavery and opposed Black civil rights during Reconstruction. In the longer-run, we find evidence of backlash in the form of higher Democratic vote shares and increases in several forms of racial violence, including lynchings and attacks against Black schools. This backlash extends through the twentieth century, when we find that counties that once had a Bureau field office have higher rates of second-wave and third-wave Ku Klux Klan activity and lower rates of intergenerational economic mobility. Overall, our results suggest that the initial impacts of the Freedmen?s Bureau stimulated countervailing responses by White majorities who sought to offset social progress of Black Americans. <br></p> </blockquote>   
+   </details> <br />
+   
+   
+* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (March 2024)<br />
+  (with Keith Chen and Katherine Feinerman )<br />
+  Revise & Resubmit at **Management Science** <br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> Modern tech platforms provide workers real-time control over when they work, and increasingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to *Instant Pay*, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased both drivers? work time and earnings (ITT: 2\%; TOT: 18-37\%). Furthermore, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle, aligning with predictions of hyperbolic discounting models. We discuss welfare and broader implications in contexts in which workers have the ability to flexibly supply labor. <br></p> </blockquote>   
+   </details> <br />
+   
+
+
+* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (February 2024)<br />
+  (with Eric Chyn and Bryan Stuart)<br />
+  NBER Working Paper #30563<br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes among White residents.<br></p> </blockquote>   
+   </details> <br />
+   
+ * [Expanding Access to Finance through Micro-Equity](https://afosterri.org/jdepreresults/wp-content/uploads/2023/10/MicroEquity_JDE_Registered_Report_RR_17oct2023-134733baaf40ae70bcbb81477090e2da.pdf) (October 2023)<br />
+  (with Adam Osman)<br />
+  Accepted at **Journal of Development Economics**, [Pre-Results Review](https://www.bitss.org/publishing/jde/). <br />
+  Eventual publication venue TBD. Progress: In the field <br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> Conventional microcredit has expanded access to finance for many borrowers; however, a growing literature suggests that the rigid structure of standard debt contracts may limit both their impact and access. We run a field experiment to test the effects of a promising alternative to conventional microcredit. Specifically, we partner with a microfinance institution to design equity contracts in which clients are provided with a productive asset (a set of livestock) and split the proceeds of the sale of the asset at a fixed rate with the MFI. We market this product to livestock farmers alongside a flexible debt contract. Relative to the debt-financing status quo, expanding equity finance to small-scale entrepreneurs could affect both the type of client that participates in the formal financial market (*selection* effects), as well as their outcomes conditional on participation (*contract* effects). Our first set of results will characterize relative demand for the two contracts, as well as key characteristics on which the borrowers may differ (e.g., debt aversion, risk aversion, and religion). Our randomized experiment with 1,875 farmers will then characterize the effects on borrower outcomes (total income, total livestock revenue, product-specific livestock revenue, and repayment). <br></p> </blockquote>   
+   </details> <br />
+   
+   ## Publications
 
    
-* [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) <br />
+* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (July 2024)<br />
+  (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
+  Forthcoming at **Journal of Human Resources** <br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that *randomly* receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources. <br></p> </blockquote>   
+   </details> <br />
+   
+   * [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) <br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
   NBER Working Paper #25935<br />
   Forthcoming at **Review of Economics and Statistics**
@@ -130,62 +190,3 @@ permalink: /research/
    **Press**: [Bloomberg](https://www.bloomberg.com/view/articles/2013-04-09/check-here-to-tip-taxi-drivers-or-save-for-401-k-), [NPR Morning Edition](https://www.npr.org/blogs/alltechconsidered/2014/03/05/283917108/technology-may-soon-get-you-to-be-a-bigger-tipper), [Yahoo! Finance](http://finance.yahoo.com/news/the-pain-of-paying--how-technology-tricks-you-into-tipping-more-203225829.html), [Pacific Standard Magazine](https://psmag.com/the-tipping-point-is-this-the-beginning-of-the-end-for-gratuities-94ca0ecb798b#.y6m8yhv27), [Guardian](https://www.theguardian.com/global/commentisfree/2015/mar/29/cass-sunstein-nudge-endless-options-confusing), [New York Times](https://www.nytimes.com/2015/03/26/style/10-20-apps-are-changing-how-we-tip.html?pagewanted=all), [Boston Globe](http://www.bostonglobe.com/lifestyle/style/2015/04/28/pardon-brother-can-you-spare-tip-for-cup-coffee/2JmMth6AkjttK5GnEbu1JL/story.html)<br />
    Editor's Choice: [Science Magazine, Vol 345(6203)](https://www.science.org/doi/10.1126/science.2014.345.6203.twil)<br />
    [[Online Appendix](/f/Default_Tips_onlineappendix.pdf)]
-   
-## Working Papers
-   
-* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (April 2024)<br />
-  (with Eric Chyn and Bryan Stuart)<br />
-  NBER Working Paper #32314<br />
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> How do majority groups respond to a narrowing of inequality in racially polarized environments? We study this question by examining the effects of the Freedmen's Bureau, an agency created after the U.S. Civil War to provide aid to former slaves and launch institutional reform in the South. We use new historical records and an event study approach to estimate impacts of the Bureau on political economy in the South. In the decade immediately after the war, counties with Bureau field offices had reduced vote shares for Democrats, the major political party that previously championed slavery and opposed Black civil rights during Reconstruction. In the longer-run, we find evidence of backlash in the form of higher Democratic vote shares and increases in several forms of racial violence, including lynchings and attacks against Black schools. This backlash extends through the twentieth century, when we find that counties that once had a Bureau field office have higher rates of second-wave and third-wave Ku Klux Klan activity and lower rates of intergenerational economic mobility. Overall, our results suggest that the initial impacts of the Freedmen?s Bureau stimulated countervailing responses by White majorities who sought to offset social progress of Black Americans. <br></p> </blockquote>   
-   </details> <br />
-   
-   
-* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (March 2024)<br />
-  (with Keith Chen and Katherine Feinerman )<br />
-  Revise & Resubmit at **Management Science** <br />
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> Modern tech platforms provide workers real-time control over when they work, and increasingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to *Instant Pay*, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased both drivers? work time and earnings (ITT: 2\%; TOT: 18-37\%). Furthermore, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle, aligning with predictions of hyperbolic discounting models. We discuss welfare and broader implications in contexts in which workers have the ability to flexibly supply labor. <br></p> </blockquote>   
-   </details> <br />
-   
-* [Expanding Access to Finance through Micro-Equity](https://afosterri.org/jdepreresults/wp-content/uploads/2023/10/MicroEquity_JDE_Registered_Report_RR_17oct2023-134733baaf40ae70bcbb81477090e2da.pdf) (October 2023)<br />
-  (with Adam Osman)<br />
-  Accepted at **Journal of Development Economics**, [Pre-Results Review](https://www.bitss.org/publishing/jde/). <br />
-  Eventual publication venue TBD. Progress: In the field <br />
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> Conventional microcredit has expanded access to finance for many borrowers; however, a growing literature suggests that the rigid structure of standard debt contracts may limit both their impact and access. We run a field experiment to test the effects of a promising alternative to conventional microcredit. Specifically, we partner with a microfinance institution to design equity contracts in which clients are provided with a productive asset (a set of livestock) and split the proceeds of the sale of the asset at a fixed rate with the MFI. We market this product to livestock farmers alongside a flexible debt contract. Relative to the debt-financing status quo, expanding equity finance to small-scale entrepreneurs could affect both the type of client that participates in the formal financial market (*selection* effects), as well as their outcomes conditional on participation (*contract* effects). Our first set of results will characterize relative demand for the two contracts, as well as key characteristics on which the borrowers may differ (e.g., debt aversion, risk aversion, and religion). Our randomized experiment with 1,875 farmers will then characterize the effects on borrower outcomes (total income, total livestock revenue, product-specific livestock revenue, and repayment). <br></p> </blockquote>   
-   </details> <br />
-
-* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (February 2024)<br />
-  (with Eric Chyn and Bryan Stuart)<br />
-  NBER Working Paper #30563<br />
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes among White residents.<br></p> </blockquote>   
-   </details> <br />
-
-   
-* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (September 2022)<br />
-  (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
-  Revise & Resubmit at **Journal of Human Resources** <br />
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that *randomly* receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources.<br></p> </blockquote>   
-   </details> <br />
