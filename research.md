@@ -55,7 +55,7 @@ permalink: /research/
    ## Publications
 
    
-* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (July 2024)<br />
+* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf)<br />
   (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
   Forthcoming at **Journal of Human Resources** <br />
 
