@@ -5,7 +5,7 @@ permalink: /research/
      
 ## Working Papers
    
-* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (July 2024)<br />
+* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (September 2024)<br />
   (with Eric Chyn and Bryan Stuart)<br />
   NBER Working Paper #32314<br />
 
