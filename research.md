@@ -5,18 +5,18 @@ permalink: /research/
      
 ## Working Papers
    
-* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (September 2024)<br />
+* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (October 2024)<br />
   (with Eric Chyn and Bryan Stuart)<br />
   NBER Working Paper #32314<br />
 
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> How do majority groups respond to a narrowing of inequality in racially polarized environments? We study this question by examining the effects of the Freedmen?s Bureau, an agency created after the U.S. Civil War to provide aid to former slaves and launch institutional reform in the South. We use new historical records and an event study approach to estimate impacts of the Bureau on political economy in the South. In the decade immediately after the war, counties with Bureau field offices had reduced vote shares for Democrats, the major political party that previously championed slavery and opposed Black civil rights during Reconstruction. The decrease in the Democrat vote share dissipates alongside the decline of the Bureau's activities and federal oversight of the South. In the longer-run, we find evidence of backlash in the form of increases in several forms of racial violence, including lynchings and attacks against Black schools. This backlash extends through the twentieth century, when we find that counties that once had a Bureau field office have higher rates of second-wave and third-wave Ku Klux Klan activity and lower rates of intergenerational economic mobility. Overall, our results suggest that the initial impacts of the Freedmen?s Bureau stimulated countervailing responses by White majorities who sought to offset social progress of Black Americans. <br></p> </blockquote>   
+   <p align="left"> How do majority groups respond to a narrowing of inequality in racially polarized environments? We study this question by examining the effects of the Freedmen's Bureau, an agency created after the U.S. Civil War to provide aid to former slaves and launch institutional reform in the South. We use new historical records and an event study approach to estimate impacts of the Bureau on political economy in the South. In the decade immediately after the war, counties with Bureau field offices had reduced vote shares for Democrats, the major political party that previously championed slavery and opposed Black civil rights during Reconstruction. The decrease in the Democrat vote share dissipates alongside the decline of the Bureau's activities and federal oversight of the South. In the longer-run, we find evidence of backlash in the form of increases in several forms of racial violence, including lynchings and attacks against Black schools. This backlash extends through the twentieth century, when we find that counties that once had a Bureau field office have higher rates of second-wave and third-wave Ku Klux Klan activity and lower rates of intergenerational economic mobility. Overall, our results suggest that the initial impacts of the Freedmen?s Bureau stimulated countervailing responses by White majorities who sought to offset social progress of Black Americans. <br></p> </blockquote>   
    </details> <br />
    
    
-* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (March 2024)<br />
+* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (October 2024)<br />
   (with Keith Chen and Katherine Feinerman)<br />
   Revise & Resubmit at **Management Science** <br />
 
@@ -24,7 +24,7 @@ permalink: /research/
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> Modern tech platforms provide workers real-time control over when they work, and increasingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to *Instant Pay*, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased both drivers? work time and earnings (ITT: 2\%; TOT: 18-37\%). Furthermore, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle, aligning with predictions of hyperbolic discounting models. We discuss welfare and broader implications in contexts in which workers have the ability to flexibly supply labor. <br></p> </blockquote>   
+   <p align="left"> Modern tech platforms provide workers real-time control over when they work, and increas- ingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to Instant Pay, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased drivers’ work time. Furthermore, consistent with present bias, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle. We discuss wel- fare and broader implications in contexts in which workers have the ability to flexibly supply labor. <br></p> </blockquote>   
    </details> <br />
    
 
