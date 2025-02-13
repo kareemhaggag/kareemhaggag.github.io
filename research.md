@@ -15,19 +15,6 @@ permalink: /research/
    <blockquote>
    <p align="left"> How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen’s Bureau, an agency created after the U.S. Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event study approach, we estimate the Bureau’s impact on political economy and racial violence. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in Bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. <br></p> </blockquote>   
    </details> <br />
-   
-   
-* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (November 2024)<br />
-  (with Keith Chen and Katherine Feinerman)<br />
-  Revise & Resubmit at **Management Science** <br />
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> Modern tech platforms provide workers real-time control over when they work, and increas- ingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to Instant Pay, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased drivers’ work time. Furthermore, consistent with present bias, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle. We discuss wel- fare and broader implications in contexts in which workers have the ability to flexibly supply labor. <br></p> </blockquote>   
-   </details> <br />
-   
 
 
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (February 2024)<br />
@@ -59,6 +46,18 @@ permalink: /research/
 ## Publications
 
    
+* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (November 2024)<br />
+  (with Keith Chen and Katherine Feinerman)<br />
+  Accepted at **Management Science** <br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> Modern tech platforms provide workers real-time control over when they work, and increas- ingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to Instant Pay, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased drivers’ work time. Furthermore, consistent with present bias, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle. We discuss wel- fare and broader implications in contexts in which workers have the ability to flexibly supply labor. <br></p> </blockquote>   
+   </details> <br />
+
+
 * [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf)<br />
   (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
   Forthcoming at **Journal of Human Resources** <br />
