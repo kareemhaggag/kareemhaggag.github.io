@@ -8,7 +8,7 @@ permalink: /
 
 I am an Assistant Professor at the [UCLA Anderson School of Management] and a Faculty Research Fellow at the [National Bureau of Economic Research (NBER)]. My [research] spans topics at the intersections of economics, psychology, and political science. 
 
-Prior to joining the UCLA faculty, I was an assistant professor at [Carnegie Mellon University], a postdoctoral fellow with the [Financial Inclusion Program] at Yale University/Innovations for Poverty Action, and received my PhD in economics from the [University of Chicago Booth School of Business] in 2016. See my [CV] for more.
+Prior to joining the UCLA faculty, I was an assistant professor at [Carnegie Mellon University], a postdoctoral fellow with the [Financial Inclusion Program] at Yale University/Innovations for Poverty Action, and received my PhD in economics from the [University of Chicago Booth School of Business]. See my [CV] for more.
 
 ## Contact
 
