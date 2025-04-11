@@ -45,7 +45,6 @@ permalink: /research/
    
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf)<br />
   (with Eric Chyn and Bryan Stuart)<br />
-  NBER Working Paper #30563<br />
     Accepted at **American Economic Journal: Applied Economics** <br />
 
 
