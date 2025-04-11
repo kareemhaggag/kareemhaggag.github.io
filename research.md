@@ -15,20 +15,6 @@ permalink: /research/
    <blockquote>
    <p align="left"> How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen’s Bureau, an agency created after the U.S. Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event study approach, we estimate the Bureau’s impact on political economy and racial violence. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in Bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. <br></p> </blockquote>   
    </details> <br />
-
-
-* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (February 2024)<br />
-  (with Eric Chyn and Bryan Stuart)<br />
-  NBER Working Paper #30563<br />
-    Conditionally Accepted at **American Economic Journal: Applied Economics** <br />
-
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes among White residents.<br></p> </blockquote>   
-   </details> <br />
    
  * [Expanding Access to Finance through Micro-Equity](https://afosterri.org/jdepreresults/wp-content/uploads/2023/10/MicroEquity_JDE_Registered_Report_RR_17oct2023-134733baaf40ae70bcbb81477090e2da.pdf) (October 2023)<br />
   (with Adam Osman)<br />
@@ -44,9 +30,8 @@ permalink: /research/
    
 
 ## Publications
-
    
-* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf) (November 2024)<br />
+* [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf)<br />
   (with Keith Chen and Katherine Feinerman)<br />
   Accepted at **Management Science** <br />
 
@@ -57,7 +42,21 @@ permalink: /research/
    <p align="left"> Modern tech platforms provide workers real-time control over when they work, and increas- ingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to Instant Pay, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased drivers’ work time. Furthermore, consistent with present bias, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle. We discuss wel- fare and broader implications in contexts in which workers have the ability to flexibly supply labor. <br></p> </blockquote>   
    </details> <br />
 
+   
+* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf)<br />
+  (with Eric Chyn and Bryan Stuart)<br />
+  NBER Working Paper #30563<br />
+    Accepted at **American Economic Journal: Applied Economics** <br />
 
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes among White residents.<br></p> </blockquote>   
+   </details> <br />
+   
+   
 * [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf)<br />
   (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
   Forthcoming at **Journal of Human Resources** <br />
