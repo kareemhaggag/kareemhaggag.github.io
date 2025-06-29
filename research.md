@@ -71,7 +71,7 @@ permalink: /research/
 * [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) <br />
   (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
   NBER Working Paper #25935<br />
-  Forthcoming at **Review of Economics and Statistics**
+  **Review of Economics and Statistics**, 107(3): 605–620. 2025
 
 
    <details><summary> Abstract (+) </summary>
@@ -79,6 +79,8 @@ permalink: /research/
    <blockquote>
    <p align="left"> This paper studies inaccurate beliefs as a source of discrimination. Economists have typically characterized discrimination as stemming from tastes (preference-based) or accurate statistical (belief-based) sources---a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about how relevant characteristics?e.g. productivity, signals? are correlated with group identity. A review of the empirical discrimination literature in economics reveals that a small minority of papers---fewer than 7%---consider the possibility of such inaccurate statistical discrimination. Using a theoretical framework and an experiment in a labor market setting, we show that not accounting for inaccurate beliefs will lead to a misclassification of discrimination?s source. We then outline three methodologies that either fully or partially identify the three potential sources: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information about the relevant distributions. Importantly, the third method can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors.<br></p> </blockquote>   
    </details><br />
+   [[Online Appendix](/f/Inaccurate_Statistical_Discrimination_onlineappendix.pdf)] <br />
+
    
    
  * [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)<br>
