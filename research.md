@@ -5,6 +5,15 @@ permalink: /research/
      
 ## Working Papers
    
+* [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/) (August 2025)<br />
+  (with Eric Chyn and Christian Maruthiah)<br />
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> This paper studies the ideology of government officials by examining the Indian Affairs office and systematically exploring the detailed writings and reports of bureaucrats charged with administering federal policy. The Office of Indian Affairs offers a powerful lens through which to study state ideology, given its long-standing authority over land, education, and legal governance of Native populations in the U.S. We digitize the agency’s archival records and use computational tools to conduct large-scale analysis on the strength of support for the organization’s assimilationist policies and goals among members of its workforce during the 19th and early 20th centuries. We document major shifts in ideological commitments that coincide with the entry—and eventual exit—of social reformers nominated for high-level agency positions by religious organizations. We find that ideology within the bureaucracy appears to moderate around the turn of the century despite the organization’s overall continued pursuit of major assimilation policies and goals, such as the promotion of farming and enrollment at off-reservation Indian boarding schools. To examine performance implications of ideology within the bureaucracy, we conclude with an analysis of land allotment policy after the passage of the Dawes Act. We provide evidence showing that the agencies with local staff who express greater past commitment to assimilationist goals carried out more land allotment immediately after Dawes became law. <br></p> </blockquote>   
+   </details> <br />
+
 * [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (October 2024)<br />
   (with Eric Chyn and Bryan Stuart)<br />
   NBER Working Paper #32314<br />
