@@ -5,7 +5,7 @@ permalink: /research/
      
 ## Working Papers
    
-* [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/) (August 2025)<br />
+* [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/Ideology_OIA.pdf) (August 2025)<br />
   (with Eric Chyn and Christian Maruthiah)<br />
 
    <details><summary> Abstract (+) </summary>
@@ -42,7 +42,7 @@ permalink: /research/
    
 * [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf)<br />
   (with Keith Chen and Katherine Feinerman)<br />
-  Accepted at **Management Science** <br />
+  Forthcoming at **Management Science** <br />
 
 
    <details><summary> Abstract (+) </summary>
@@ -54,8 +54,7 @@ permalink: /research/
    
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf)<br />
   (with Eric Chyn and Bryan Stuart)<br />
-    Accepted at **American Economic Journal: Applied Economics** <br />
-
+  Forthcoming at **American Economic Journal: Applied Economics** <br />
 
 
    <details><summary> Abstract (+) </summary>
