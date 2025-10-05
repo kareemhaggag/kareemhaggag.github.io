@@ -25,7 +25,7 @@ permalink: /research/
    <p align="left"> How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen’s Bureau, an agency created after the U.S. Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event study approach, we estimate the Bureau’s impact on political economy and racial violence. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in Bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. <br></p> </blockquote>   
    </details> <br />
    
- * [Expanding Access to Finance through Micro-Equity](https://afosterri.org/jdepreresults/wp-content/uploads/2023/10/MicroEquity_JDE_Registered_Report_RR_17oct2023-134733baaf40ae70bcbb81477090e2da.pdf) (October 2023)<br />
+ * [Expanding Access to Finance through Micro-Equity](/f/Micro-Equity.pdf) (October 2023)<br />
   (with Adam Osman)<br />
   Accepted at **Journal of Development Economics**, [Pre-Results Review](https://www.bitss.org/publishing/jde/). <br />
   Eventual publication venue TBD. Progress: In the field <br />
