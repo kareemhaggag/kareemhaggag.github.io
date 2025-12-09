@@ -1,6 +1,5 @@
 ---
 layout: page
-output: pdf_document
 permalink: /
 ---
 <br />
