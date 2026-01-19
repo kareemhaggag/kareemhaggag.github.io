@@ -5,7 +5,7 @@ permalink: /research/
      
 ## Working Papers
    
-* [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/Ideology_OIA.pdf) (October 2025)<br />
+* [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/Ideology_OIA.pdf) (January 2026)<br />
   (with Eric Chyn and Christian Maruthiah)<br />
   NBER Working Paper #34415<br />
 
