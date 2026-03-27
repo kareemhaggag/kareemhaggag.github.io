@@ -7,7 +7,7 @@ permalink: /research/
    
 * [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/Ideology_OIA.pdf) (January 2026)<br />
   (with Eric Chyn and Christian Maruthiah)<br />
-  NBER Working Paper #34415<br />
+  NBER Working Paper #34415
 
    <details><summary> Abstract (+) </summary>
    
@@ -18,7 +18,7 @@ permalink: /research/
 * [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (October 2024)<br />
   (with Eric Chyn and Bryan Stuart)<br />
   NBER Working Paper #32314<br />
-  Conditionally Accepted at **American Economic Review** <br />
+  Conditionally Accepted at **American Economic Review**
 
    <details><summary> Abstract (+) </summary>
    
@@ -29,7 +29,7 @@ permalink: /research/
  * [Selection and Incentives in Microequity Contracts: Evidence from a Field Experiment](/f/Micro-Equity.pdf)<br />
   (with Adam Osman)<br />
   [Registered Report](https://www.bitss.org/publishing/jde/) accepted at **Journal of Development Economics**   <br />
-  as "Expanding Access to Finance through Micro-Equity". Eventual outlet TBD. <br />
+  as "Expanding Access to Finance through Micro-Equity". Eventual outlet TBD.
 
 
    <details><summary> Abstract (+) </summary>
@@ -43,7 +43,8 @@ permalink: /research/
    
 * [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf)<br />
   (with Keith Chen and Katherine Feinerman)<br />
-  Forthcoming at **Management Science**<br />
+  NBER Working Paper #33177<br />
+  Forthcoming at **Management Science**
 
 
    <details><summary> Abstract (+) </summary>
@@ -55,6 +56,7 @@ permalink: /research/
    
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf)<br />
   (with Eric Chyn and Bryan Stuart)<br />
+  NBER Working Paper #30563<br />
   **American Economic Journal: Applied Economics**, 18(2), 34-60. 2026.
 
 
@@ -82,7 +84,7 @@ permalink: /research/
    
 * [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf)<br />
   (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
-  Forthcoming at **Journal of Human Resources** (2024)<br />
+  Forthcoming at **Journal of Human Resources** (2024)
 
 
    <details><summary> Abstract (+) </summary>
