@@ -43,7 +43,7 @@ permalink: /research/
    
 * [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf)<br />
   (with Keith Chen and Katherine Feinerman)<br />
-  Forthcoming at **Management Science** <br />
+  Forthcoming at **Management Science**<br />
 
 
    <details><summary> Abstract (+) </summary>
@@ -55,26 +55,16 @@ permalink: /research/
    
 * [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf)<br />
   (with Eric Chyn and Bryan Stuart)<br />
-  Forthcoming at **American Economic Journal: Applied Economics** <br />
+  **American Economic Journal: Applied Economics**, 18(2), 34-60. 2026.
 
 
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes among White residents.<br></p> </blockquote>   
-   </details> <br />
+   <p align="left"> This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for antipoverty policies, and increases racially conservative attitudes among White residents.<br></p> </blockquote>   
+   </details><br />
+   [[Online Appendix](/f/Segregation_Mobility_onlineappendix.pdf)] <br />
    
-   
-* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf)<br />
-  (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
-  Forthcoming at **Journal of Human Resources** <br />
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that *randomly* receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources. <br></p> </blockquote>   
-   </details> <br />
    
 
 * [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) <br />
@@ -89,8 +79,18 @@ permalink: /research/
    <p align="left"> This paper studies inaccurate beliefs as a source of discrimination. Economists have typically characterized discrimination as stemming from tastes (preference-based) or accurate statistical (belief-based) sources---a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about how relevant characteristics?e.g. productivity, signals? are correlated with group identity. A review of the empirical discrimination literature in economics reveals that a small minority of papers---fewer than 7%---consider the possibility of such inaccurate statistical discrimination. Using a theoretical framework and an experiment in a labor market setting, we show that not accounting for inaccurate beliefs will lead to a misclassification of discrimination?s source. We then outline three methodologies that either fully or partially identify the three potential sources: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information about the relevant distributions. Importantly, the third method can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors.<br></p> </blockquote>   
    </details><br />
    [[Online Appendix](/f/Inaccurate_Statistical_Discrimination_onlineappendix.pdf)] <br />
-
    
+* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf)<br />
+  (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
+  Forthcoming at **Journal of Human Resources** (2024)<br />
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that *randomly* receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources. <br></p> </blockquote>   
+   </details> <br />
+
    
  * [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)<br>
   (with Eric Chyn)<br />
