@@ -5,6 +5,16 @@ permalink: /research/
      
 ## Working Papers
    
+* [The Persistence of Power: How Family Origins Shape Political Representation and Policy](/f/Political_Elites.pdf) (May 2026)<br />
+  (with Eric Chyn, Katherine Cohen, and Bryan Stuart)<br />
+  NBER Working Paper #35180
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> In the United States, long hailed as the land of opportunity, is access to political office truly open across society, or do the most privileged children disproportionately rise to enter political life? This question speaks to a longstanding concern that elite families may entrench themselves in positions of power, reproducing a form of hereditary privilege within a democratic system. We study the family backgrounds of U.S. politicians over the late nineteenth and early twentieth centuries and show that children from wealthy and privileged households have been substantially overrepresented in elected office. This imbalance has changed little over time and, at the highest levels of office, varies little across political parties. To test whether political access depends on family resources, we exploit the sudden economic shock caused by the end of slavery. Despite the large and concentrated losses at the top of the wealth distribution, the children of slaveholders continued to enter government at high rates. Finally, we examine whether politicians' socioeconomic origins shape policy by constructing a new sample of close elections linked to detailed information on U.S. House candidates' family backgrounds. Comparing otherwise similar districts in which a candidate from a high socioeconomic status family narrowly wins rather than loses, we find that districts represented by higher status candidates are less likely to support pro-tax positions in roll-call voting. Together, the evidence across our analyses shows that family background strongly predicts entry into political office and has measurable consequences for policy choices. <br></p> </blockquote>   
+   </details> <br />
+   
 * [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/Ideology_OIA.pdf) (January 2026)<br />
   (with Eric Chyn and Christian Maruthiah)<br />
   NBER Working Paper #34415
