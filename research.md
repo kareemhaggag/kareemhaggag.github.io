@@ -5,7 +5,7 @@ permalink: /research/
      
 ## Working Papers
    
-* [The Persistence of Power: How Family Origins Shape Political Representation and Policy](/f/Political_Elites.pdf) (May 2026)<br />
+* [The Persistence of Power: How Family Origins Shape Political Representation and Policy](/f/Political_Elites.pdf) (June 2026)<br />
   (with Eric Chyn, Katherine Cohen, and Bryan Stuart)<br />
   NBER Working Paper #35180
 
