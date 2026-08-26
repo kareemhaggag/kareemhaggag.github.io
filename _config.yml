@@ -5,7 +5,7 @@ sourcecode: "https://github.com/kareemhaggag/kareemhaggag.github.io"
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md", "unused_stuff"]
 
-url: "http://kareemhaggag.github.io"     # the base hostname & protocol for your site
+url: "https://www.kareemhaggag.com"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
