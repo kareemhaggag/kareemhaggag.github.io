@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Spring 2024:
+# Spring 2026:
 
-## MGMT 203: Behavioral Economics
+## MGMT 203: Behavioral Economics (MBA)
+## MGMT 260: Behavioral Economics (PhD)

@@ -3,7 +3,7 @@ description: Associate Professor at the UCLA Anderson School of Management
 sourcecode: "https://github.com/kareemhaggag/kareemhaggag.github.io"
 
 permalink: blog/:year/:month/:day/:title
-exclude: ["Makefile", "README.md"]
+exclude: ["Makefile", "README.md", "unused_stuff"]
 
 url: "http://kareemhaggag.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
@@ -56,5 +56,5 @@ comments:
       width: 580
       colorscheme: light
 
-gems:
+plugins:
  - jekyll-seo-tag
