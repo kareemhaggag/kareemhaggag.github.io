@@ -19,6 +19,6 @@ Email: [kareem.haggag@anderson.ucla.edu]
 [Carnegie Mellon University]: http://www.cmu.edu/dietrich/sds/index.html
 [Financial Inclusion Program]: http://www.poverty-action.org/program-area/financial-inclusion
 [University of Chicago Booth School of Business]: https://www.chicagobooth.edu
-[research]: http://www.kareemhaggag.com/research
+[research]: /research/
 [UCLA Anderson School of Management]: https://www.anderson.ucla.edu/faculty-and-research/behavioral-decision-making
-[CV]: http://www.kareemhaggag.com/f/KareemHaggag_CV.pdf
+[CV]: /f/KareemHaggag_CV.pdf

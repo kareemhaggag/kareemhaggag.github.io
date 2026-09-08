@@ -58,3 +58,4 @@ comments:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-sitemap
