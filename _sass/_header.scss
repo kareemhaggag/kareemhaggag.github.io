@@ -19,6 +19,11 @@
     margin-bottom: 1em;
     float: left;
     letter-spacing: 1px;
+    // It is an <h1> for document structure, not for visual weight: undo the
+    // browser's 2em heading size and the bold from the heading reset. Inherit
+    // rather than pin, so it keeps .site-header's $small-font-size.
+    font-size: inherit;
+    font-weight: normal;
 }
 
 .site-nav {
@@ -91,7 +96,7 @@
     display: block;
 }
 
-.site-nav h1 {
+.site-nav h2 {
     position: absolute;
     left: -999em;
 }

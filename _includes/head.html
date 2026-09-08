@@ -15,4 +15,33 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:image" content="{{ "/images/haggag.png" | prepend: site.baseurl | prepend: site.url }}" />
+{% if page.url == "/" %}
+    <!-- Structured data: identifies the site subject as a person, not a generic page.
+         Every sameAs URL is one an official page (NBER, UCLA Anderson) links to. -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Kareem Haggag",
+      "url": "{{ site.url }}/",
+      "image": "{{ site.url }}/images/haggag.png",
+      "jobTitle": "Associate Professor",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "UCLA Anderson School of Management",
+        "url": "https://www.anderson.ucla.edu/"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Chicago Booth School of Business",
+        "url": "https://www.chicagobooth.edu/"
+      },
+      "sameAs": [
+        "https://www.nber.org/people/kareem_haggag",
+        "https://www.anderson.ucla.edu/faculty-and-research/behavioral-decision-making/faculty/haggag",
+        "https://x.com/k_haggag"
+      ]
+    }
+    </script>
+{% endif %}
 </head>

@@ -1,5 +1,5 @@
 @include media-query($mobile) {
-    .site-nav h1 {
+    .site-nav h2 {
         border-bottom: 1px solid $line-color;
         cursor: pointer;
         display: none; /* Standard. IE8+, Saf, FF3+ */
