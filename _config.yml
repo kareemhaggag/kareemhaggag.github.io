@@ -5,6 +5,23 @@ sourcecode: "https://github.com/kareemhaggag/kareemhaggag.github.io"
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md", "unused_stuff"]
 
+# PDFs the site no longer links to (superseded working-paper versions and
+# retired supplements). Still served for anyone holding an old link, but kept
+# out of sitemap.xml so Google is not asked to index them.
+defaults:
+  - scope:
+      path: "f/WP"
+    values:
+      sitemap: false
+  - scope:
+      path: "f/Racial_Disparities_in_Voting_Wait_Times_wp.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: "f/geographic_variation_in_wait_times.pdf"
+    values:
+      sitemap: false
+
 url: "https://www.kareemhaggag.com"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 

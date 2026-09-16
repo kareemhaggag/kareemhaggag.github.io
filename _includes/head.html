@@ -8,7 +8,8 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+{% if page.noindex %}    <meta name="robots" content="noindex">
+{% endif %}
     <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
     <!-- Facebook OpenGraph tags -->
     <meta property="og:title" content="Kareem Haggag" />
