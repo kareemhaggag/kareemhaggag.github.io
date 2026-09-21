@@ -15,27 +15,16 @@ permalink: /research/
    <p align="left"> In the United States, long hailed as the land of opportunity, is access to political office truly open across society, or do the most privileged children disproportionately rise to enter political life? This question speaks to a longstanding concern that elite families may entrench themselves in positions of power, reproducing a form of hereditary privilege within a democratic system. We study the family backgrounds of U.S. politicians over the late nineteenth and early twentieth centuries and show that children from wealthy and privileged households have been substantially overrepresented in elected office. This imbalance has persisted over time and, at the highest levels of office, varies little across political parties. To test the durability of elite political advantage, we exploit the sudden economic shock caused by the end of slavery. Despite the large and concentrated losses at the top of the wealth distribution, the children of slaveholders continued to enter government at high rates. Finally, we examine whether politicians' socioeconomic origins shape policy by constructing a new sample of close elections linked to detailed information on U.S. House candidates' family backgrounds. Comparing otherwise similar districts in which a candidate from a high socioeconomic status family narrowly wins rather than loses, we find that districts represented by higher status candidates are less likely to support pro-tax positions in roll-call voting. Together, the evidence across our analyses shows that family background strongly predicts entry into political office and has measurable consequences for policy choices. <br></p> </blockquote>   
    </details> <br />
   
-* [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/Ideology_OIA.pdf) (May 2026)<br />
+* [Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era](/f/Ideology_OIA.pdf) (September 2026)<br />
   (with Eric Chyn and Christian Maruthiah)<br />
   NBER Working Paper #34415
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
-   <p align="left"> This paper studies the ideology of government officials and coercive policymaking by examining the Office of Indian Affairs, an institution that held broad authority over the land, education, and legal governance of Indigenous populations in the United States. We digitize the detailed reports of the agency's bureaucrats and use computational tools to measure the strength of their support for assimilationist policies during the 19th and early 20th centuries. We document major shifts in ideological commitments that coincide with the entry---and eventual exit---of social reformers nominated for high-level agency positions by religious organizations. We find that ideology within the bureaucracy appears to moderate around the turn of the century despite the organization's overall continued pursuit of major assimilation policies, such as the promotion of farming and enrollment in off-reservation Indian boarding schools. To examine performance implications of ideology within the bureaucracy, we conclude with an analysis of policy implementation after the passage of the Dawes Act, a landmark law that aimed to dismantle collective land holdings. We provide evidence showing that the agencies with local staff who express greater past commitment to assimilationist goals carried out more land redistribution immediately after Dawes became law. <br></p> </blockquote>   
+   <p align="left"> This paper studies bureaucratic ideology and coercive policy by examining the Office of Indian Affairs, an institution that held authority over land, education, and legal governance of Indigenous populations in the United States. We digitize bureaucratic reports and use computational tools to measure support for assimilationist policies during the late 19th and early 20th centuries. Our measure distinguishes normative endorsement of assimilation from merely describing or implementing federal policy. We validate it using human evaluations and separate archival records of agents' policy advocacy. Across reports, assimilationist commitment was widespread but varied over time and across personnel regimes: support was especially strong among religious nominees and moderated as the appointment system changed, even as federal policy remained firmly assimilationist. Finally, we study the Dawes Act, a pivotal policy that dismantled collective tribal landholding, and find that agencies led by more assimilationist agents carried out more land redistribution immediately after its passage. <br></p> </blockquote>   
   
    </details> <br />
 
-* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf) (October 2024)<br />
-  (with Eric Chyn and Bryan Stuart)<br />
-  NBER Working Paper #32314<br />
-  Conditionally Accepted at **American Economic Review**
-
-   <details><summary> Abstract (+) </summary>
-  
-   <blockquote>
-   <p align="left"> How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen’s Bureau, an agency created after the U.S. Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the Bureau’s impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in Bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. <br></p> </blockquote>   
-   </details> <br />
-  
  * [Selection and Incentives in Microequity Contracts: Evidence from a Field Experiment](/f/Micro-Equity.pdf)<br />
   (with Adam Osman)<br />
     [Registered Report](https://www.bitss.org/publishing/jde/) accepted at **Journal of Development Economics**   <br />
@@ -50,6 +39,18 @@ permalink: /research/
 
 
 ## Publications
+
+* [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf)<br />
+  (with Eric Chyn and Bryan Stuart)<br />
+  NBER Working Paper #32314<br />
+  Forthcoming at **American Economic Review** (November 2026)
+
+   <details><summary> Abstract (+) </summary>
+  
+   <blockquote>
+   <p align="left"> How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen’s Bureau, an agency created after the U.S. Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the Bureau’s impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in Bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. <br></p> </blockquote>   
+   </details> <br />
+   [[Online Appendix](/f/Freedmens_Bureau_onlineappendix.pdf)] <br />
 
 * [Flexible Pay and Labor Supply: Evidence from Uber's Instant Pay](/f/Instant_Pay.pdf)<br />
   (with Keith Chen and Katherine Feinerman)<br />
