@@ -21,6 +21,10 @@ defaults:
       path: "f/geographic_variation_in_wait_times.pdf"
     values:
       sitemap: false
+  - scope:
+      path: "f/Freedmens_Bureau_withappendix.pdf"
+    values:
+      sitemap: false
 
 url: "https://www.kareemhaggag.com"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
