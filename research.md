@@ -43,7 +43,7 @@ permalink: /research/
 * [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](/f/Freedmens_Bureau.pdf)<br />
   (with Eric Chyn and Bryan Stuart)<br />
   NBER Working Paper #32314<br />
-  Forthcoming at **American Economic Review** (November 2026)
+  **American Economic Review**, 116(11), 4158–4202. 2026.
 
    <details><summary> Abstract (+) </summary>
   
