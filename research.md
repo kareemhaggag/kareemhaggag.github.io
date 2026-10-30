@@ -25,7 +25,7 @@ permalink: /research/
   
    </details> <br />
 
- * [Selection and Incentives in Microequity Contracts: Evidence from a Field Experiment](/f/Micro-Equity.pdf)<br />
+ * [Selection and Incentives in Microequity Contracts: Evidence from a Field Experiment](/f/Microequity.pdf)<br />
   (with Adam Osman)<br />
     [Registered Report](https://www.bitss.org/publishing/jde/) accepted at **Journal of Development Economics**   <br />
     as "Expanding Access to Finance through Micro-Equity". Eventual outlet TBD.
