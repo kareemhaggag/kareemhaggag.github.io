@@ -25,7 +25,7 @@ permalink: /research/
   
    </details> <br />
 
- * [Selection and Incentives in Microequity Contracts: Evidence from a Field Experiment](/f/Microequity.pdf) (November 2026)<br />
+ * [Selection and Incentives in Microequity: Evidence from a Field Experiment](/f/Microequity.pdf) (November 2026)<br />
   (with Adam Osman)
 
 
