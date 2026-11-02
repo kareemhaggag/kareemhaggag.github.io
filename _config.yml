@@ -25,6 +25,16 @@ defaults:
       path: "f/Freedmens_Bureau_withappendix.pdf"
     values:
       sitemap: false
+  # Linked only from inside the Microequity abstract dropdown; kept out of the
+  # sitemap so they do not compete with the paper in search results.
+  - scope:
+      path: "f/Microequity_registeredreport.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: "f/Microequity_companionreport.pdf"
+    values:
+      sitemap: false
 
 url: "https://www.kareemhaggag.com"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog

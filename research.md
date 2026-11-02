@@ -25,16 +25,15 @@ permalink: /research/
   
    </details> <br />
 
- * [Selection and Incentives in Microequity Contracts: Evidence from a Field Experiment](/f/Microequity.pdf)<br />
-  (with Adam Osman)<br />
-    [Registered Report](https://www.bitss.org/publishing/jde/) accepted at **Journal of Development Economics**   <br />
-    as "Expanding Access to Finance through Micro-Equity". Eventual outlet TBD.
+ * [Selection and Incentives in Microequity Contracts: Evidence from a Field Experiment](/f/Microequity.pdf) (November 2026)<br />
+  (with Adam Osman)
 
 
    <details><summary> Abstract (+) </summary>
 
    <blockquote>
-   <p align="left"> Firms often cite financing constraints as key barriers, yet lenders rarely innovate beyond debt products. While theory suggests debt may dominate equity due to adverse selection and moral hazard, these mechanisms are difficult to isolate empirically. We design and test a microequity product with Egyptian livestock farmers, providing animals and splitting sales proceeds at a fixed rate. We market this product alongside a flexible debt contract. Using a two-stage RCT, we disentangle selection from contract effects. We find strong demand for equity, with many participants willing to accept lower financing probability to avoid debt. These "equity-only" participants exhibit advantageous selection on some key contract performance metrics relative to those willing to accept either contract. However, holding selection fixed, equity causes a drop in net revenue relative to debt—evidence of moral hazard. A set of currency devaluations eliminated this negative effect, demonstrating that moral hazard varies with context. Our findings suggest microequity can enhance financial inclusion by attracting new clients, but managing moral hazard remains a primary, context-dependent challenge. <br></p> </blockquote>   
+   <p align="left"> Firms often cite financing constraints as key barriers, but lenders rarely innovate beyond debt. Equity could serve firms that debt deters, but it raises concerns about adverse selection and moral hazard, which are difficult to isolate empirically. Using a two-stage experiment with Egyptian livestock farmers, we design and test a microequity contract against flexible debt and separate selection from contract effects. Almost half of potential clients would accept only equity, and this group is advantageously selected, with fewer animal deaths than borrowers open to both contracts. Conditional on selection, net revenue is lower under equity than debt, consistent with moral hazard, though the gap disappears during a currency devaluation. We estimate a simple structural model and find that offering equity alongside debt is profitable only at below-typical delivery costs, but borrower gains are large enough that subsidizing equity can raise welfare more than equal spending on cash transfers. <br></p> </blockquote>
+   <p align="left">[<a href="/f/Microequity_registeredreport.pdf">JDE Registered Report</a>] [<a href="/f/Microequity_companionreport.pdf">PAP Reconciliation</a>]</p>
    </details> 
 
 
