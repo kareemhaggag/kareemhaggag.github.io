@@ -5,3 +5,9 @@
 _site/
 .jekyll-cache/
 .jekyll-metadata
+
+# Tool folders and logs (Claude Code, Playwright, the Stata MCP, editors) must never be
+# committed: ignore every dot-file or dot-folder except this file, and all log files.
+.*
+!.gitignore
+*.log
